@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Van&#39;s Aircraft RV-14</title>
+    <link>https://thesemicolons.com/categories/blog/</link>
+    <description>Recent content in blog on Van&#39;s Aircraft RV-14</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ISC</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thesemicolons.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://thesemicolons.com/posts/welcome/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesemicolons.com/posts/welcome/</guid>
+      <description>&lt;p&gt;This website is in progress, please check back in early 2022.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

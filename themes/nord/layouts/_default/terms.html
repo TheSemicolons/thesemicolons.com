@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ if (eq .Type "tags")}}
+<article>
+	<p>TAGS</p>
+</article>
+{{ end }}
+{{ if (eq .Type "categories")}}
+<article>
+	<p>CATEGORIES</p>
+</article>
+{{ end }}
+{{ end }}

@@ -1,0 +1,47 @@
+/**
+ * Colours.
+ */
+Blue	=>	#268BD2
+Cyan	=>	#2AA198
+Green	=>	#859900
+Magenta	=>	#D33682
+Orange	=>	#CB4B16
+Red	=>	#DC322F
+Violet	=>	#6C71C4
+Yellow	=>	#B58900
+
+/**
+ * Dark - Primary.
+ */
+Background	=>	#002B36
+Highlight	=>	#073642
+Content		=>	#839496
+Subdue		=>	#586E75
+Optional	=>	#93A1A1
+
+/**
+ * Dark - Compliment.
+ */
+Background	=>	#FDF6E3
+Highlight	=>	#EEE8D5
+Content		=>	#657B83
+Subdue		=>	#93A1A1
+Optional	=>	#586E75
+
+/**
+ * Light - Primary.
+ */
+Background	=>	#FDF6E3
+Highlight	=>	#EEE8D5
+Content		=>	#657B83
+Subdue		=>	#93A1A1
+Optional	=>	#586E75
+
+/**
+ * Light - Compliment.
+ */
+Background	=>	#002B36
+Highlight	=>	#073642
+Content		=>	#839496
+Subdue		=>	#586E75
+Optional	=>	#93A1A1
