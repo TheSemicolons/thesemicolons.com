@@ -12,8 +12,6 @@
 
 [Discord](https://out.thesemicolons.com/discord)
 
-[Donate](https://out.thesemicolons.com/donate)
-
 [Instagram](https://out.thesemicolons.com/instagram)
 
 [Steam](https://out.thesemicolons.com/steam)
