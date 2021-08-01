@@ -2,7 +2,7 @@
 
 {{ $blogPages := where .Site.RegularPages "Section" "==" "posts" }}
 
-{{- range $blogPages }}
+{{- range (.Paginate $blogPages).Pages }}
 <article>
 	<h2>{{ .Title }}</h2>
 	{{ .Summary }}
@@ -17,5 +17,7 @@
 	</ul>
 </article>
 {{- end }}
+
+{{ partial "pagination.html" . }}
 
 {{ end }}
