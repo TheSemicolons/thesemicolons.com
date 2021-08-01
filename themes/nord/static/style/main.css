@@ -135,16 +135,14 @@ footer > ul > li+li
 .swatches > ul > li
 {
 	align-self: auto;
-	background-color: #EEE8D5; /* Primary Highlight */                      
-	border: 1px solid #002B36; /* Compliment Background */                  
-	color: #657B83; /* Primary Content */                                   
-	flex: 1 0 20%;
+	background-color: #EEE8D5; /* Primary Highlight */
+	border: 1px solid #002B36; /* Compliment Background */
+	color: #657B83; /* Primary Content */
+	flex: 0 1 20%;
 	height: 25px;
 	line-height: 25px;
 	margin: 25px;
 	text-align: center;
-	max-width: 20%; 
-	min-width: 20%; 
 }
 
 
