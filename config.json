@@ -16,6 +16,16 @@
 				"name": "Home",
 				"url": "/",
 				"weight": 1
+			},
+			{
+				"name": "Categories",
+				"url": "/categories/",
+				"weight": 100
+			},
+			{
+				"name": "Tags",
+				"url": "/tags/",
+				"weight": 101
 			}
 		]
 	},
