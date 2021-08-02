@@ -7,17 +7,17 @@
 
 	<meta charset="utf-8">
 
-	<meta name="author" content="Jim Anderson">
-	<meta name="description" content="Test website.">
-	<meta name="generator" content="ed(1)">
-	<meta name="keywords" content="test,website">
+	<meta name="author" content="{{ .Site.Params.Author }}">
+	<meta name="description" content="{{ .Site.Params.Description }}">
+	<meta name="generator" content="ed(1), Hugo {{ hugo.Version }}">
+	<meta name="keywords" content="{{ .Site.Params.Keywords }}">
 	<meta name="referrer" content="origin">
 	<meta name="viewport" content="height=device-height,width=device-width,initial-scale=1.0,user-scalable=1">
 
-	<meta property="og:description" content="The Semicolons development website">
+	<meta property="og:description" content="{{ .Site.Params.Description }}">
 	<meta property="og:image" content="">
 	<meta property="og:locale" content="en_US">
-	<meta property="og:title" content="The Semicolons development website">
+	<meta property="og:title" content="{{ if .IsPage }} {{ .Title }} | {{ end }}{{ .Site.Title }}">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="{{ .Site.BaseURL }}">
 

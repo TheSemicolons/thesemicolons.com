@@ -1,12 +1,15 @@
 {
 	"baseURL": "https://thesemicolons.com/",
 	"canonifyURLs": true,
-	"copyright": "ISC",
+	"copyright": "2021 The Semicolons",
 	"languageCode": "en-us",
 	"theme": "nord",
 	"title": "Van's Aircraft RV-7",
 
 	"params": {
+		"author": "The Semicolons",
+		"description": "The Semicolons Van's Aircraft RV-7 Build Log",
+		"keywords": "aircraft,airplane,build,construction,log,rv-7,rv7,semicolons,thesemicolons,vans",
 		"subtitle": "Build Log"
 	},
 

@@ -1,5 +1,6 @@
 <footer>
-	<p>&#169; 2021 TheSemicolons</p>
+	<!-- <p>&#169; 2021 TheSemicolons</p> -->
+	<p>&copy; {{ .Site.Copyright }}</p>
 	<ul>
 		{{ range .Site.Menus.footer }}
 		<li><a href="{{ .URL }}">{{ .Name }}</a></li>
