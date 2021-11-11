@@ -22,7 +22,7 @@ VERSION   = 0.1
 all: public
 
 install: public
-	rsync -ahv --delete public/ aesir:/home/www/htdocs/thesemicolons.com
+	rsync -ahv --delete public/ web0.thesemicolons.com:/home/www/htdocs/thesemicolons.com
 
 public:
 	hugo
