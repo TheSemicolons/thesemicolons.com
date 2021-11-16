@@ -8,7 +8,6 @@
 }
 ---
 
-* [CrouchJump](https://out.thesemicolons.com/crouchjump)
 * [Discord](https://out.thesemicolons.com/discord)
 * [Donate](https://out.thesemicolons.com/donate)
 * [Fanhouse](https://out.thesemicolons.com/fanhouse)
