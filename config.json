@@ -56,6 +56,11 @@
 				"name": "YouTube",
 				"url": "https://out.thesemicolons.com/youtube",
 				"weight": 5
+			},
+			{
+				"name": "Donate",
+				"url": "https://out.thesemicolons.com/donate",
+				"weight": 6
 			}
 		]
 	},
