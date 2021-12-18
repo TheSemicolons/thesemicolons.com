@@ -30,6 +30,33 @@
 				"url": "/tags/",
 				"weight": 101
 			}
+		],
+		"socials": [
+			{
+				"name": "Discord",
+				"url": "https://out.thesemicolons.com/discord",
+				"weight": 1
+			},
+			{
+				"name": "Instagram",
+				"url": "https://out.thesemicolons.com/instagram",
+				"weight": 2
+			},
+			{
+				"name": "Twitch",
+				"url": "https://out.thesemicolons.com/twitch",
+				"weight": 3
+			},
+			{
+				"name": "Twitter",
+				"url": "https://out.thesemicolons.com/twitter",
+				"weight": 4
+			},
+			{
+				"name": "YouTube",
+				"url": "https://out.thesemicolons.com/youtube",
+				"weight": 5
+			}
 		]
 	},
 	"markup": {
