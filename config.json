@@ -34,32 +34,32 @@
 		"socials": [
 			{
 				"name": "Discord",
-				"url": "https://out.thesemicolons.com/discord",
+				"url": "https://thesemicolons.social/discord",
 				"weight": 1
 			},
 			{
 				"name": "Instagram",
-				"url": "https://out.thesemicolons.com/instagram",
+				"url": "https://thesemicolons.social/instagram",
 				"weight": 2
 			},
 			{
 				"name": "Twitch",
-				"url": "https://out.thesemicolons.com/twitch",
+				"url": "https://thesemicolons.social/twitch",
 				"weight": 3
 			},
 			{
 				"name": "Twitter",
-				"url": "https://out.thesemicolons.com/twitter",
+				"url": "https://thesemicolons.social/twitter",
 				"weight": 4
 			},
 			{
 				"name": "YouTube",
-				"url": "https://out.thesemicolons.com/youtube",
+				"url": "https://thesemicolons.social/youtube",
 				"weight": 5
 			},
 			{
 				"name": "Donate",
-				"url": "https://out.thesemicolons.com/donate",
+				"url": "https://thesemicolons.social/donate",
 				"weight": 6
 			}
 		]
