@@ -2,7 +2,7 @@
 
 {{ if (eq .Type "categories") }}
 <!-- <h1>Categories</h1> -->
-{{ end}}
+{{ end }}
 {{ if (eq .Type "tags") }}
 <!-- <h1>Tags</h1> -->
 {{ end }}
@@ -10,9 +10,7 @@
 <section class="swatches">
 	<ul>
 		{{ $data := .Data }}
-		{{ range $key, $value := .Data.Terms.Alphabetical }}
-		<li><a href="{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> ({{ $value.Count }})</li>
-		{{ end }}
+		{{ range $key, $value := .Data.Terms.Alphabetical }}<li><a href="{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> ({{ $value.Count }})</li>{{ end }}
 	</ul>
 </section>
 {{ end }}

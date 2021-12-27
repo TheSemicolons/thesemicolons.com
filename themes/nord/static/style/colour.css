@@ -1,47 +1,75 @@
-/**
- * Colours.
- */
-Blue	=>	#268BD2
-Cyan	=>	#2AA198
-Green	=>	#859900
-Magenta	=>	#D33682
-Orange	=>	#CB4B16
-Red	=>	#DC322F
-Violet	=>	#6C71C4
-Yellow	=>	#B58900
+:root {
+	--blue: rgba( 40, 140, 210, 1.0);
+	--cyan: rgba( 40, 160, 150, 1.0);
+	--green: rgba(135, 155, 0, 1.0);
+	--magenta: rgba(210, 55, 130, 1.0);
+	--orange: rgba(205, 75, 20, 1.0);
+	--red: rgba(220, 50, 50, 1.0);
+	--violet: rgba(110, 115, 195, 1.0);
+	--yellow: rgba(180, 135, 0, 1.0);
 
-/**
- * Dark - Primary.
- */
-Background	=>	#002B36
-Highlight	=>	#073642
-Content		=>	#839496
-Subdue		=>	#586E75
-Optional	=>	#93A1A1
+	--base0: rgba(130, 150, 150, 1.0);
+	--base1: rgba(145, 160, 160, 1.0);
+	--base2: rgba(240, 230, 215, 1.0);
+	--base3: rgba(255, 245, 225, 1.0);
+	--base00: rgba(100, 125, 130, 1.0);
+	--base01: rgba( 90, 110, 115, 1.0);
+	--base02: rgba( 5, 55, 65, 1.0);
+	--base03: rgba( 0, 45, 55, 1.0);
 
-/**
- * Dark - Compliment.
- */
-Background	=>	#FDF6E3
-Highlight	=>	#EEE8D5
-Content		=>	#657B83
-Subdue		=>	#93A1A1
-Optional	=>	#586E75
+	--bg: var(--base3);
+	--hl: var(--base2);
+	--primary: var(--base00);
+	--secondary: var(--base1);
+	--optional: var(--base01);
+	--cbg: var(--base03);
+}
 
-/**
- * Light - Primary.
- */
-Background	=>	#FDF6E3
-Highlight	=>	#EEE8D5
-Content		=>	#657B83
-Subdue		=>	#93A1A1
-Optional	=>	#586E75
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg: var(--base03);
+		--hl: var(--base02);
+		--primary: var(--base0);
+		--secondary: var(--base01);
+		--optional: var(--base1);
+		--cbg: var(--base3);
+	}
+}
 
-/**
- * Light - Compliment.
+#color-mode:checked ~ * {
+	--bg: var(--base03);
+	--hl: var(--base02);
+	--primary: var(--base0);
+	--secondary: var(--base01);
+	--optional: var(--base1);
+	--cbg: var(--base3);
+}
+
+@media (prefers-color-scheme: dark) {
+	#color-mode:checked ~ * {
+		--bg: var(--base3);
+		--hl: var(--base2);
+		--primary: var(--base00);
+		--secondary: var(--base1);
+		--optional: var(--base01);
+		--cbg: var(--base03);
+	}
+}
+
+/*
+ * Dark.
+ * Background base03
+ * Highlight base02
+ * Primary base0
+ * Secondary base01
+ * Optional base1
  */
-Background	=>	#002B36
-Highlight	=>	#073642
-Content		=>	#839496
-Subdue		=>	#586E75
-Optional	=>	#93A1A1
+
+/*
+ * Light.
+ * Background base3
+ * Highlight base2
+ * Primary base00
+ * Secondary base1
+ * Optional base01
+ */

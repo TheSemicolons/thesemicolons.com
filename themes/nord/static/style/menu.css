@@ -18,8 +18,10 @@ nav > ul > li
 
 nav > ul > li > a
 {
-	background-color: inherit;
-	color: #268BD2; /* Blue */
+	/* background-color: inherit; */
+	/* color: #268BD2; Blue */
+	background-color: var(--bg);
+	color: var(--blue);
 	padding: 5px 10px;
 	text-decoration: none;
 	white-space: nowrap;
@@ -30,7 +32,9 @@ nav > ul > li > a
 
 nav > ul > li > a:hover
 {
-	background-color: #268BD2; /* Blue */
-	color: #FDF6E3; /* Primary Background */
+	/* background-color: #268BD2; Blue */
+	/* color: #FDF6E3; Primary Background */
+	background-color: var(--blue);
+	color: var(--bg);
 	text-decoration: none;
 }

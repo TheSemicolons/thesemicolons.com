@@ -1,7 +1,9 @@
 html, body
 {
-	background-color: #FDF6E3; /* Primary Background */
-	color: #657B83; /* Primary Content */
+	/* background-color: #FDF6E3; Primary Background */
+	/* color: #657B83; Primary Content */
+	background-color: var(--bg);
+	color: var(--content);
 }
 
 body
@@ -17,7 +19,8 @@ body
 a:active, a:link, a:visited
 {
 	background-color: inherit;
-	color: #268BD2; /* Blue */
+	/* color: #268BD2; Blue */
+	color: var(--blue);
 	font-weight: bold;
 	text-decoration: none;
 }
@@ -25,15 +28,18 @@ a:active, a:link, a:visited
 a:hover
 {
 	background-color: inherit;
-	color: #B58900; /* Yellow */
+	/* color: #B58900; Yellow */
+	color: var(--yellow);
 	text-decoration: underline;
 }
 
 header
 {
 	align-self: stretch;
-	background-color: #EEE8D5; /* Primary Highlight */
-	color: #93A1A1; /* Primary Subdue */
+	/* background-color: #EEE8D5; Primary Highlight */
+	/* color: #93A1A1; Primary Subdue */
+	background-color: var(--hl);
+	color: var(--secondary);
 	flex: 0 1 auto;
 	order: 0;
 }
@@ -57,9 +63,12 @@ header > h2
 nav
 {
 	align-self: stretch;
-	background-color: #EEE8D5; /* Primary Highlight */
-	border-bottom: 1px solid #002B36; /* Compliment Background */
-	color: #657B83; /* Primary Content */
+	/* color: #657B83; Primary Content */
+	/* background-color: #EEE8D5; Primary Highlight */
+	/* border-bottom: 1px solid #002B36; Compliment Background */
+	background-color: var(--hl);
+	border-bottom: 1px solid var(--cbg);
+	color: var(--content);
 	flex: 0 1 auto;
 	order: 1;
 }
@@ -76,9 +85,12 @@ main
 footer
 {
 	align-self: stretch;
-	background-color: #EEE8D5; /* Primary Highlight */
-	border-top: 1px solid #002B36; /* Compliment Background */
-	color: #586E75; /* Primary Optional */
+	/* background-color: #EEE8D5; Primary Highlight */
+	/* border-top: 1px solid #002B36; Compliment Background */
+	/* color: #586E75; Primary Optional */
+	background-color: var(--hl);
+	border-bottom: 1px solid var(--cbg);
+	color: var(--optional);
 	flex: 0 1 auto;
 	order: 3;
 }
@@ -112,7 +124,8 @@ footer > ul > li
 
 footer > ul > li+li
 {
-	border-left: 1px solid #586E75; /* Primary Optional */
+	/* border-left: 1px solid #586E75; Primary Optional */
+	border-left: 1px solid var(--optional);
 }
 
 
@@ -135,9 +148,12 @@ footer > ul > li+li
 .swatches > ul > li
 {
 	align-self: auto;
-	background-color: #EEE8D5; /* Primary Highlight */
-	border: 1px solid #002B36; /* Compliment Background */
-	color: #657B83; /* Primary Content */
+	/* background-color: #EEE8D5; Primary Highlight */
+	/* border: 1px solid #002B36; Compliment Background */
+	/* color: #657B83; Primary Content */
+	background-color: var(--hl);
+	border: 1px solid var(--cbg);
+	color: var(--content);
 	flex: 0 1 20%;
 	height: 25px;
 	line-height: 25px;
@@ -152,49 +168,57 @@ footer > ul > li+li
 .blue
 {
 	background-color: inherit;
-	color: #268BD2; /* Blue */
+	/* color: #268BD2; Blue */
+	color: var(--blue);
 }
 
 .cyan
 {
 	background-color: inherit;
-	color: #2AA198; /* Cyan */
+	/* color: #2AA198; Cyan */
+	color: var(--cyan);
 }
 
 .green
 {
 	background-color: inherit;
-	color: #859900; /* Green */
+	/* color: #859900; Green */
+	color: var(--green);
 }
 
 .magenta
 {
 	background-color: inherit;
-	color: #D33682; /* Magenta */
+	/* color: #D33682; Magenta */
+	color: var(--magenta);
 }
 
 .orange
 {
 	background-color: inherit;
-	color: #CB4B16; /* Orange */
+	/* color: #CB4B16; Orange */
+	color: var(--orange);
 }
 
 .red
 {
 	background-color: inherit;
-	color: #DC322F; /* Red */
+	/* color: #DC322F; Red */
+	color: var(--red);
 }
 
 .violet
 {
 	background-color: inherit;
-	color: #6C71C4; /* Violet */
+	/* color: #6C71C4; Violet */
+	color: var(--violet);
 }
 
 .yellow
 {
 	background-color: inherit;
-	color: #B58900; /* Yellow */
+	/* color: #B58900; Yellow */
+	color: var(--yellow);
 }
 
 
@@ -224,26 +248,30 @@ footer > ul > li+li
 .caption
 {
 	background-color: inherit;
-	color: #93A1A1; /* Primary Subdue */
+	/*color: #93A1A1; Primary Subdue */
+	color: var(--secondary);
 	font-size: small;
 }
 
 .subdued
 {
 	background-color: inherit;
-	color: #93A1A1; /* Primary Subdue */
+	/*color: #93A1A1; Primary Subdue */
+	color: var(--secondary);
 }
 
 .error
 {
 	background-color: inherit;
-	color: #DC322F; /* Red */
+	/* color: #DC322F; Red */
+	color: var(--red);
 }
 
 .success
 {
 	background-color: inherit;
-	color: #859900; /* Green */
+	/* color: #859900; Green */
+	color: var(--green);
 }
 
 
@@ -252,9 +280,12 @@ footer > ul > li+li
  */
 .featurebox > ul
 {
-	background-color: #EEE8D5; /* Primary Highlight */
-	border: 1px solid #002B36; /* Compliment Background */
-	color: #657B83; /* Primary Content */
+	/* background-color: #EEE8D5; Primary Highlight */
+	/* border: 1px solid #002B36; Compliment Background */
+	/* color: #657B83; Primary Content */
+	background-color: var(--hl);
+	border: 1px solid var(--cbg);
+	color: var(--content);
 	list-style-type: none;
 	margin: 0 0 1.5em;
 	padding: 15px 20px 20px;
@@ -262,9 +293,12 @@ footer > ul > li+li
 
 .featurebox > ul > li:first-child h3
 {
-	background-color: #EEE8D5; /* Primary Highlight */
-	border-bottom: 1px solid #DC322F; /* Red */
-	color: #DC322F; /* Red */
+	/* background-color: #EEE8D5; Primary Highlight */
+	/* border-bottom: 1px solid #DC322F; Red */
+	/* color: #DC322F; Red */
+	background-color: var(--hl);
+	border-bottom: 1px solid var(--red);
+	color: var(--red);
 	margin: 0 0 .3em;
 }
 
@@ -295,9 +329,12 @@ footer > ul > li+li
 {
 	align-content: center;
 	align-items: center;
-	background-color: #EEE8D5; /* Primary Highlight */
-	border: 1px solid #002B36; /* Compliment Background */
-	color: #657B83; /* Primary Content */
+	/* background-color: #EEE8D5; Primary Highlight */
+	/* border: 1px solid #002B36; Compliment Background */
+	/* color: #657B83; Primary Content */
+	background-color: var(--hl);
+	border: 1px solid var(--cbg);
+	color: var(--content);
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -315,7 +352,8 @@ footer > ul > li+li
 
 .pagination > ul > li > a
 {
-	border: 1px solid #002B36; /* Compliment Background */
+	/* border: 1px solid #002B36; Compliment Background */
+	border: 1px solid var(--cbg);
 	margin: 5px;
 	padding: 2px 5px;
 	text-decoration: none;
@@ -324,21 +362,28 @@ footer > ul > li+li
 .pagination > ul > li > a:active, .pagination > ul > li > a:link,
 .pagination > ul > li > a:visited
 {
-	background-color: #FDF6E3; /* Primary Background */
-	color: #268BD2; /* Blue */
+	/* background-color: #FDF6E3; Primary Background */
+	/* color: #268BD2; Blue */
+	background-color: var(--bg);
+	color: var(--blue);
 }
 
 .pagination > ul > li > a:hover
 {
-	background-color: #268BD2; /* Blue */
-	color: #FDF6E3; /* Primary Background */
+	/* background-color: #268BD2; Blue */
+	/* color: #FDF6E3; Primary Background */
+	background-color: var(--blue);
+	color: var(--bg);
 }
 
 .pagination > ul > li > span
 {
-	background-color: #FDF6E3; /* Primary Background */
-	border: 1px solid #002B36; /* Compliment Background */
-	color: #93A1A1; /* Primary Subdue */
+	/* background-color: #FDF6E3; Primary Background */
+	/* border: 1px solid #002B36; Compliment Background */
+	/* color: #93A1A1; Primary Subdue */
+	background-color: var(--bg);
+	border: 1px solid var(--cbg);
+	color: var(--secondary);
 	font-weight: bold;
 	margin: 5px;
 	padding: 2px 5px;
@@ -351,9 +396,12 @@ footer > ul > li+li
  */
 article
 {
-	background-color: #EEE8D5; /* Primary Highlight */
-	border: 1px solid #002B36; /* Compliment Background */
-	color: #657B83; /* Primary Content */
+	/* background-color: #EEE8D5; Primary Highlight */
+	/* border: 1px solid #002B36; Compliment Background */
+	/* color: #657B83; Primary Content */
+	background-color: var(--hl);
+	border: 1px solid var(--cbg);
+	color: var(--primary);
 	margin: 1.0em 0;
 	padding: 15px;
 }
@@ -361,8 +409,10 @@ article
 article > h2
 {
 	background-color: inherit;
-	border-bottom: 1px solid #93A1A1;
-	color: #657B83; /* Primary Content */
+	/* border-bottom: 1px solid #93A1A1; Primary Subdue */
+	/* color: #657B83; Primary Content */
+	border-bottom: 1px solid var(--secondary);
+	color: var(--primary);
 	font-weight: bold;
 	margin: 0;
 	padding: 0;
@@ -384,9 +434,11 @@ article > ul
 
 article > ul > li
 {
-	background-color: #EEE8D5; /* Primary Highlight */
+	/* background-color: #EEE8D5; Primary Highlight */
+	background-color: var(--hl);
 	border: none;
-	color: #657B83; /* Primary Content */
+	/* color: #657B83; Primary Content */
+	color: var(--primary);
 	font-weight: normal;
 	line-height: 1.3;
 	margin: 0 2em .3em;
@@ -396,7 +448,8 @@ article > ul > li
 {
 	align-content: flex-start;
 	align-items: flex-start;
-	border-top: 1px solid #93A1A1;
+	/* border-top: 1px solid #93A1A1; Primary Subdue */
+	border-top: 1px solid var(--secondary);
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -415,7 +468,8 @@ article > ul > li
 {
 	background-color: inherit;
 	border: none;
-	color: #93A1A1; /* Primary Subdue */
+	/* color: #93A1A1; Primary Subdue */
+	color: var(--secondary);
 	display: inline;
 	margin: 0;
 	list-style-type: none;
@@ -430,7 +484,8 @@ article > ul > li
 .postDetails > .tag > a
 {
 	background-color: inherit;
-	color: #268BD2; /* Blue */
+	/* color: #268BD2; Blue */
+	color: var(--blue);
 	padding: 0px 5px;
 	text-decoration: none;
 	white-space: nowrap;
@@ -442,7 +497,8 @@ article > ul > li
 .postDetails > .tag > a:hover
 {
 	background-color: inherit;
-	color: #B58900; /* Yellow */
+	/* color: #B58900; Yellow */
+	color: var(--yellow);
 	text-decoration: underline;
 }
 
@@ -462,7 +518,8 @@ article > ul > li
 .tagList > ul > li > a
 {
 	background-color: inherit;
-	color: #268BD2; /* Blue */
+	/* color: #268BD2; Blue */
+	color: var(--blue);
 	padding: 0px 5px;
 	text-decoration: none;
 	white-space: nowrap;
@@ -474,7 +531,8 @@ article > ul > li
 .tagList > ul > li > a:hover
 {
 	background-color: inherit;
-	color: #B58900; /* Yellow */
+	/* color: #B58900; Yellow */
+	color: var(--yellow);
 	text-decoration: underline;
 }
 
@@ -491,12 +549,18 @@ table
 
 table > thead > tr > th
 {
-	background-color: #EEE8D5; /* Primary Highlight */
-	border-bottom: 2px solid #073642; /* Compliment Highlight */
-	border-left: 1px solid #073642; /* Compliment Highlight */
-	border-right: 1px solid #073642; /* Compliment Highlight */
-	border-top: 2px solid #073642; /* Compliment Highlight */
-	color: #657B83; /* Primary Content */
+	/* background-color: #EEE8D5; Primary Highlight */
+	/* border-bottom: 2px solid #073642; Compliment Highlight */
+	/* border-left: 1px solid #073642; Compliment Highlight */
+	/* border-right: 1px solid #073642; Compliment Highlight */
+	/* border-top: 2px solid #073642; Compliment Highlight */
+	/* color: #657B83; Primary Content */
+	background-color: var(--hl);
+	border-bottom: 2px solid var(--cbg);
+	border-left: 1px solid var(--cbg);
+	border-right: 1px solid var(--cbg);
+	border-top: 2px solid var(--cbg);
+	color: var(--primary);
 	font-size: 1em;
 	font-weight: bold;
 	padding: 6px;
@@ -506,8 +570,10 @@ table > thead > tr > th
 
 table > tbody > tr > td
 {
-	background-color: #FDF6E3; /* Primary Background */
-	border: 1px solid #073642; /* Compliment Highlight */
+	/* background-color: #FDF6E3; Primary Background */
+	/* border: 1px solid #073642; Compliment Highlight */
+	background-color: var(--bg);
+	border: 1px solid var(--cbg);
 	color: inherit;
 	padding: 3px;
 }
@@ -537,7 +603,8 @@ table > tbody > tr > td
 
 .calendar > tbody > tr > td
 {
-	border: 1px solid #002B36; /* Compliment Background */
+	/* border: 1px solid #002B36; Compliment Background */
+	border: 1px solid var(--cbg);
 }
 
 
@@ -546,8 +613,10 @@ table > tbody > tr > td
  */
 .submission > form
 {
-	background-color: #FDF6E3; /* Primary Background */
-	color: #657B83; /* Primary Content */
+	/* background-color: #FDF6E3; Primary Background */
+	/* color: #657B83; Primary Content */
+	background-color: var(--bg);
+	color: var(--primary);
 	margin: 0 0 1.5em;
 	width: 500px;
 }
@@ -555,7 +624,8 @@ table > tbody > tr > td
 .submission > form em
 {
 	background-color: inherit;
-	color: #DC322F; /* Red */
+	/* color: #DC322F; Red */
+	color: var(--red);
 	font-style: normal;
 	font-weight: bold;
 }
@@ -567,8 +637,10 @@ table > tbody > tr > td
 
 .submission > form > fieldset
 {
-	background-color: #EEE8D5; /* Primary Highlight */
-	border: 1px solid #002B36; /* Compliment Background */
+	/* background-color: #EEE8D5; Primary Highlight */
+	/* border: 1px solid #002B36; Compliment Background */
+	background-color: var(--hl);
+	border: 1px solid var(--cbg);
 	color: inherit;
 	margin-bottom: 10px;
 }
@@ -576,7 +648,8 @@ table > tbody > tr > td
 .submission > form > fieldset > legend
 {
 	background-color: transparent;
-	color: #DC322F; /* Red */
+	/* color: #DC322F; Red */
+	color: var(--red);
 	font-weight: bold;
 	padding: 0 2px;
 }
@@ -596,13 +669,15 @@ table > tbody > tr > td
 
 .submission > form > fieldset > ul > li:not(:last-child)
 {
-	border-bottom: 1px solid #002B36; /* Compliment Background */
+	/* border-bottom: 1px solid #002B36; Compliment Background */
+	border-bottom: 1px solid var(--cbg);
 }
 
 .submission > form > fieldset > ul > li > label
 {
 	background-color: inherit;
-	color: #657B83; /* Primary Content */
+	/* color: #657B83; Primary Content */
+	color: var(--primary);
 	display: inline-block;
 	line-height: 1.8;
 	vertical-align: top;
