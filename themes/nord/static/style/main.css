@@ -89,7 +89,7 @@ footer
 	/* border-top: 1px solid #002B36; Compliment Background */
 	/* color: #586E75; Primary Optional */
 	background-color: var(--hl);
-	border-bottom: 1px solid var(--cbg);
+	border-top: 1px solid var(--cbg);
 	color: var(--optional);
 	flex: 0 1 auto;
 	order: 3;
