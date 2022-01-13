@@ -58,8 +58,8 @@
 				"weight": 5
 			},
 			{
-				"name": "Donate",
-				"url": "https://thesemicolons.social/donate",
+				"name": "Tip",
+				"url": "https://thesemicolons.social/tip",
 				"weight": 6
 			}
 		]
