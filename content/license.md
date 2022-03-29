@@ -8,7 +8,7 @@
 }
 ---
 
-Copyright &copy; 2021 TheSemicolons [thesemicolons@protonmail.com](mailto:thesemicolons@protonmail.com).
+Copyright &copy; 2022 TheSemicolons [thesemicolons@protonmail.com](mailto:thesemicolons@protonmail.com).
 
 Permission to use, copy, modify, and distribute this website for any purpose
 with or without fee is hereby granted, provided that the above copyright notice
