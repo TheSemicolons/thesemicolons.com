@@ -11,6 +11,9 @@
 I am not a professional and the contents of this website are for entertainment
 purposes only.
 
+This website and all related content are in no way endorsed or sponsored by Van's
+Aircraft.
+
 The content of this website is provided "as is" and the author(s) disclaim all
 warranties with regard to any procedures, methods, or advice given; including
 all implied warranties of merchantability and fitness. In no event shall the
