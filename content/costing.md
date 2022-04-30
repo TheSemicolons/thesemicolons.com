@@ -9,7 +9,7 @@
 ---
 
 Item                          | Cost        | Paid For                                                              | Spent                                                                  | Built
-------------------------------|-------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|-----
+------------------------------|-------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|------
 Plans                         | $10.00      | <progress id="0Plans" value="10" max="10"></progress> 100%            | <progress id="1Plans" value="10" max="10"></progress> 100%             | <progress id="2Plans" value="0" max="10"></progress> 0%
 &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;
 Empennage                     | $2,175.00   | <progress id="0Empennage" value="1300" max="2175"></progress> 60%     | <progress id="1Empennage" value="2175" max="2175"></progress> 100%     | <progress id="2Empennage" value="0" max="2175"></progress> 0%
