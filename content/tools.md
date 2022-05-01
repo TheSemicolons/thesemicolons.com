@@ -54,10 +54,62 @@ Part Number | Item | Purchased From | Cost | Count | Total
 15306-SGY-AIR31NB    | Kobalt Brass NPT Plug (M)-1/4 inch Industrial                          | Lowe's Home Improvement | $2.98     | 2  | $5.96
 128936-SGY-AIR26NB   | Kobalt Brass Coupler (F)-1/4 inch Universal                            | Lowe's Home Improvement | $4.48     | 2  | $8.96
 
-
 # Signage
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 NFPA_PRINTED_331OX   | NFPA 704 Diamond Sign with 3-3-1-OX Hazard Ratings NFPA_PRINTED_331OX  | Compliance Signs        | $16.50    | 6  | $99.00
 NFPA-Chart_1         | NFPA 704 NFPA Rating Guide Sign NFPA-Chart-1 NFPA Diamonds             | Compliance Signs        | $11.60    | 1  | $11.60
+
+# Stationary Tools
+
+Part Number | Item | Purchased From | Cost | Count | Total
+------------|------|----------------|------|-------|------
+3939T                | WEN 3939T 2.8-Amp 9-Inch Benchtop Band Saw                             | Amazon                  | $248.32   | 1  | $248.32
+6502T                | WEN 6502T 4.3-Amp 4 x 36 in. Belt and 6 in. Disc Sander                | Amazon                  | $114.82   | 1  | $114.82
+4214T                | WEN 4214T 12 in. Variable Speed Drill Press                            | Amazon                  | $301.62   | 1  | $301.62
+BG4282               | WEN BG4282 4.8-Amp 8-Inch Single Speed Bench Grinder                   | Amazon                  | $98.87    | 1  | $98.87
+430DPC               | WEN 430DPC Drill Press Clamp, 12"                                      | Amazon                  | $16.39    | 4  | $65.56
+DW713                | 15 Amp Corded 10 in. Compound Single Bevel Miter Saw                   | Home Depot              | $219.00   | 1  | $219.00
+
+# Pneumatic Tools
+
+Part Number | Item | Purchased From | Cost | Count | Total
+------------|------|----------------|------|-------|------
+DWMT70773L           | DEWALT Impact Wrench, Square Drive, Heavy Duty, 1/2-Inch               | Amazon                  | $136.18   | 1  | $136.18
+DWMT70775            | DEWALT Impact Wrench, Square Drive, 3/8-Inch                           | Amazon                  | $84.98    | 1  | $84.98
+DWMT70776L           | DEWALT Air Ratchet, Square Drive, 3/8-Inch                             | Amazon                  | $79.00    | 1  | $79.00
+DWMT70777            | DEWALT HVLP Spray Gun, Gravity Feed                                    | Amazon                  | $99.00    | 1  | $99.00
+DWMT70780            | DEWALT Dual Action Sander                                              | Amazon                  | $69.00    | 1  | $69.00
+DWMT70781L           | DEWALT Palm Sander                                                     | Amazon                  | $89.99    | 1  | $89.99
+DWMT70782L           | DEWALT Die Grinder, Angle                                              | Amazon                  | $86.83    | 1  | $86.83
+DWMT70783            | DEWALT Die Grinder, Straight                                           | Amazon                  | $43.99    | 1  | $43.99
+DWMT70784            | DEWALT Grinder Tool, Self-locking Touch Control, 3-Inch                | Amazon                  | $53.51    | 1  | $53.51
+DWMT70785            | DEWALT Chisel Hammer, Pnuematic                                        | Amazon                  | $38.34    | 1  | $38.34
+DWMT70786L           | DEWALT Drill, Pneumatic, Reversible, 3/8-Inch                          | Amazon                  | $72.99    | 1  | $72.99
+
+# Power Tools
+
+Part Number | Item | Purchased From | Cost | Count | Total
+------------|------|----------------|------|-------|------
+DCK520D1M1           | DEWALT 20V MAX Cordless Drill Combo Kit, 5-Tool                        | Lowe's Home Improvement | $599.00   | 1  | $599.00
+DCE530B              | DEWALT  1100-BTU Heat Gun                                              | Lowe's Home Improvement | $139.00   | 1  | $139.00
+
+# Specialty Tools
+
+Part Number | Item | Purchased From | Cost | Count | Total
+------------|------|----------------|------|-------|------
+TINYT03              | INCRA Precision Tiny T-Rules - 3"                                      | Incremental Tools       | $14.95    | 1  | $14.95
+T-RULE06             | INCRA Precision T-Rules - 6"                                           | Incremental Tools       | $21.95    | 1  | $21.95
+T-RULE12             | INCRA Precision T-Rules - 12"                                          | Incremental Tools       | $36.95    | 1  | $36.95
+T-RULE18             | INCRA Precision T-Rules - 18"                                          | Incremental Tools       | $46.95    | 1  | $46.95
+PROTRAC06            | INCRA Precision Specialty Rules - 6" Protractor                        | Incremental Tools       | $31.95    | 1  | $21.95
+
+# Miscellaneous Tools
+
+Part Number | Item | Purchased From | Cost | Count | Total
+------------|------|----------------|------|-------|------
+HD1200               | RIDGID 12 Gal. 5.0-Peak HP NXT Wet/Dry Shop Vacuum                     | Home Depot              | $79.97    | 1  | $79.97
+46319                | Pittsburgh Automotive Pneumatic Roller Seat                            | Harbor Freight          | $39.99    | 1  | $39.99
+61897                | Haul-Master 30 In x 18 In 1000 lb. Capacity Hardwood Dolly             | Harbor Freight          | $24.99    | 1  | $24.99
+615219-78604         | Project Source 6-Outlet White Power Strip                              | Lowe's Home Improvement | $10.02    | 3  | $30.06
