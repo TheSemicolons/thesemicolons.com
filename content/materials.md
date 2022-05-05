@@ -34,7 +34,7 @@ SHI_F-40W-5K-1PK     | Sunco LED Shop Light, Industrial, Frosted, 4100 Lumens, 6
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
-10AAL9901            | Elgato Wave Panel Starter Set, Blue                                    | Elgato                  | $99.99    | 14 | $1,516.22
+10AAL9901            | Elgato Wave Panel Starter Set, Blue                                    | Elgato                  | $99.99    | 27 | $2,699.73
 
 # Air Compressor
 
@@ -53,6 +53,8 @@ Part Number | Item | Purchased From | Cost | Count | Total
 15306-SGY-AIR31NB    | Kobalt Brass NPT Plug (M)-1/4 inch Industrial                          | Lowe's Home Improvement | $2.98     | 2  | $5.96
 128936-SGY-AIR26NB   | Kobalt Brass Coupler (F)-1/4 inch Universal                            | Lowe's Home Improvement | $4.48     | 2  | $8.96
 MP-4E                | Diversitech MP4-E E.V.A. Anti-Vibration Pad, 4" x 4" x 7/8" Pack of 4  | Amazon                  | $22.25    | 3  | $66.75
+S-1815-2             | Milton S-1815-2 1/2" FNPT G Style Coupler                                   | Amazon                  | $32.39    | 3  | $103.09
+1817                 | Milton 1817 1/2" Male Plug G-Style                                     | Amazon                  | $15.50    | 2  | $31.00
 
 # Signage
 
