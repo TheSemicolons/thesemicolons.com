@@ -53,7 +53,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 15306-SGY-AIR31NB    | Kobalt Brass NPT Plug (M)-1/4 inch Industrial                          | Lowe's Home Improvement | $2.98     | 2  | $5.96
 128936-SGY-AIR26NB   | Kobalt Brass Coupler (F)-1/4 inch Universal                            | Lowe's Home Improvement | $4.48     | 2  | $8.96
 MP-4E                | Diversitech MP4-E E.V.A. Anti-Vibration Pad, 4" x 4" x 7/8" Pack of 4  | Amazon                  | $22.25    | 3  | $66.75
-S-1815-2             | Milton S-1815-2 1/2" FNPT G Style Coupler                                   | Amazon                  | $32.39    | 3  | $103.09
+S-1815-2             | Milton S-1815-2 1/2" FNPT G Style Coupler                              | Amazon                  | $32.39    | 3  | $103.09
 1817                 | Milton 1817 1/2" Male Plug G-Style                                     | Amazon                  | $15.50    | 2  | $31.00
 
 # Signage
@@ -97,7 +97,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 DCK520D1M1           | DEWALT 20V MAX Cordless Drill Combo Kit, 5-Tool                        | Lowe's Home Improvement | $599.00   | 1  | $599.00
 DCE530B              | DEWALT 1100-BTU Heat Gun                                               | Lowe's Home Improvement | $139.00   | 1  | $139.00
 DW088CG              | DEWALT 165 ft. Green Self-Leveling Cross Line Laser Level              | Home Depot              | $219.00   | 1  | $219.00
-DWAMRASETFT          | DEWALT  Modular FlexTorq Right Angle Drill Attachment                  | Lowe's Home Improvement | $34.98    | 1  | $34.98
+DWAMRASETFT          | DEWALT Modular FlexTorq Right Angle Drill Attachment                   | Lowe's Home Improvement | $34.98    | 1  | $34.98
 
 # Hand Tools
 
@@ -110,7 +110,7 @@ DWAX200              | DEWALT Screwdriver Set, Security, 31-pc.                 
 DWAX100IR            | DEWALT IMPACT READY Screwdriving Tough Case Set, Extra Small, 31-pc    | Amazon                  | $20.00    | 1  | $20.00
 DW1369               | DEWALT Titanium Drill Bit Set with Pilot Point, 29-Piece               | Amazon                  | $96.84    | 1  | $96.84
 DWMT75301B           | DEWALT 3/8" Drive Socket Rail                                          | Amazon                  | $7.69     | 8  | $61.52
-364867-10002         | Kobalt  18mm 11-Blade Folding Utility Knife                            | Lowe's Home Improvement | $8.98     | 1  | $8.98
+364867-10002         | Kobalt 18mm 11-Blade Folding Utility Knife                             | Lowe's Home Improvement | $8.98     | 1  | $8.98
 
 
 # Specialty Tools
@@ -146,7 +146,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 HD1200               | RIDGID 12 Gal. 5.0-Peak HP NXT Wet/Dry Shop Vacuum                     | Home Depot              | $79.97    | 1  | $79.97
 46319                | Pittsburgh Automotive Pneumatic Roller Seat                            | Harbor Freight          | $39.99    | 1  | $39.99
 61897                | Haul-Master 30 In x 18 In 1000 lb. Capacity Hardwood Dolly             | Harbor Freight          | $24.99    | 1  | $24.99
-2180118-10006        | Kobalt  42-in W x 58.8-in H 13 Ball-bearing Steel Tool Chest           | Lowe's Home Improvement | $649.00   | 1  | $649.00
+2180118-10006        | Kobalt 42-in W x 58.8-in H 13 Ball-bearing Steel Tool Chest            | Lowe's Home Improvement | $649.00   | 1  | $649.00
 339949-339949        | 36-in W x 24-in D x 72-in H 5-Tier Plastic Utility Shelving Unit       | Lowe's Home Improvement | $75.98    | 6  | $455.88
 337310-85867         | 3/8-in Breaker Bar                                                     | Lowe's Home Improvement | $29.96    | 2  | $59.92
 2570375-KBSWT27      | Wire Cutter/Crimper                                                    | Lowe's Home Improvement | $19.98    | 1  | $19.98
