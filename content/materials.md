@@ -63,6 +63,16 @@ Part Number | Item | Purchased From | Cost | Count | Total
 NFPA_PRINTED_331OX   | NFPA 704 Diamond Sign with 3-3-1-OX Hazard Ratings NFPA_PRINTED_331OX  | Compliance Signs        | $16.50    | 6  | $99.00
 NFPA-Chart_1         | NFPA 704 NFPA Rating Guide Sign NFPA-Chart-1 NFPA Diamonds             | Compliance Signs        | $11.60    | 1  | $11.60
 
+# Work Tables
+Part Number | Item | Purchased From | Cost | Count | Total
+------------|------|----------------|------|-------|------
+432480-WF204TOPCHC10 | 2-in x 4-in x 10-ft Fir Lumber                                         | Lowe's Home Improvement | $12.92    | 18 | $232.56
+37461-988547         | 3/4-in x 48-in x 8-ft Unfinished MDF                                   | Lowe's Home Improvement | $59.98    |  2 | $119.96
+1444-1414            | Titebond III Brown Interior/Exterior Wood Adhesive (16oz)              | Lowe's Home Improvement | $7.98     |  1 | $7.98
+1148792-48462        | Deck Plus #8 x 1-5/8-in Wood To Wood Deck Screws (147) (1 pound)       | Lowe's Home Improvement | $17.98    |  1 | $17.98
+1148794-48464        | Deck Plus #10 x 2-1/2-in Wood To Wood Deck Screws (73) (1 pound)       | Lowe's Home Improvement | $17.98    |  4 | $71.92
+1148791-48466        | Deck Plus #10 x 3-in Wood To Wood Deck Screws (62) (1 pound)           | Lowe's Home Improvement | $17.98    |  1 | $17.98
+
 # Stationary Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
