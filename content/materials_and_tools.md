@@ -53,8 +53,9 @@ Part Number | Item | Purchased From | Cost | Count | Total
 15306-SGY-AIR31NB    | Kobalt Brass NPT Plug (M)-1/4 inch Industrial                          | Lowe's Home Improvement | $2.98     | 2  | $5.96
 128936-SGY-AIR26NB   | Kobalt Brass Coupler (F)-1/4 inch Universal                            | Lowe's Home Improvement | $4.48     | 2  | $8.96
 MP-4E                | Diversitech MP4-E E.V.A. Anti-Vibration Pad, 4" x 4" x 7/8" Pack of 4  | Amazon                  | $22.25    | 3  | $66.75
-S-1815-2             | Milton S-1815-2 1/2" FNPT G Style Coupler                              | Amazon                  | $32.39    | 3  | $103.09
-1817                 | Milton 1817 1/2" Male Plug G-Style                                     | Amazon                  | $15.50    | 2  | $31.00
+S-1815-2             | Milton S-1815-2 1/2" FNPT G Style Coupler (2 pack)                     | Amazon                  | $32.39    | 3  | $103.09
+1817                 | Milton 1817 1/2" Male Plug G-Style                                     | Amazon                  | $3.99     | 6  | $23.94
+S-653-4              | Milton S-653-4 1/2-Inch FNPT x 3/8-Inch MNPT Hose Fitting Adapter      | Amazon                  | $4.39     | 3  | $13.17
 
 # Signage
 
