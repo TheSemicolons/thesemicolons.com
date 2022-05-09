@@ -3,7 +3,7 @@
 	"author": "James Anderson",
 	"date": "2021-01-01",
 	"menu": "main",
-	"title": "Materials",
+	"title": "Materials and Tools",
 	"weight": "4",
 	"cc": "22,95,121,133,138"
 }
