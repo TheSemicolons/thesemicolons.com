@@ -114,6 +114,8 @@ DWAMRASETFT          | DEWALT Modular FlexTorq Right Angle Drill Attachment     
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
+8220-2/28            | Dremel 8220-2/28 12-Volt Max Cordless Rotary Tool Kit                  | Amazon                  | $119.99   | 1  | $119.99
+710-08               | Dremel Rotary Tool Accessory Kit                                       | Amazon                  | $34.97    | 1  | $34.97
 1311251-67248        | Kobalt Screwdrivers 20-Piece Plastic Handle Magnetic Assorted Set      | Amazon                  | $41.35    | 2  | $82.70
 2884761-81730        | Kobalt 20-Piece Set 12-Point Standard (SAE) and Metric Ratchet Wrench  | Amazon                  | $88.32    | 2  | $176.64
 DWMT19248            | DEWALT Impact Socket Set, SAE/MM, 3/8-Inch Drive, 42-Piece             | Amazon                  | $116.65   | 2  | $233.30
