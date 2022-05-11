@@ -9,7 +9,7 @@
 }
 ---
 
-# Garage Finishing
+## Garage Finishing
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -24,19 +24,19 @@ Part Number | Item | Purchased From | Cost | Count | Total
 6509-21877           | Contractor Series Soft Woven Roller Cover 9x3/8 inch                   | Sherwin Williams        | $13.99    | 2  | $27.98
 6509-31173           | Emerald Interior Acrylic Latex Paint Extra White 1 gallon              | Sherwin Williams        | $66.79    | 6  | $400.74
 
-# Garage Lighting
+## Garage Lighting
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 SHI_F-40W-5K-1PK     | Sunco LED Shop Light, Industrial, Frosted, 4100 Lumens, 6000K, 2 pack  | Amazon                  | $49.99    | 4  | $199.96
 
-# Elgato Wave Panels
+## Elgato Wave Panels
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 10AAL9901            | Elgato Wave Panel Starter Set, Blue                                    | Elgato                  | $99.99    | 27 | $2,699.73
 
-# Air Compressor
+## Air Compressor
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -57,14 +57,14 @@ S-1815-2             | Milton S-1815-2 1/2" FNPT G Style Coupler (2 pack)       
 1817                 | Milton 1817 1/2" Male Plug G-Style                                     | Amazon                  | $3.99     | 6  | $23.94
 S-653-4              | Milton S-653-4 1/2-Inch FNPT x 3/8-Inch MNPT Hose Fitting Adapter      | Amazon                  | $4.39     | 3  | $13.17
 
-# Signage
+## Signage
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 NFPA_PRINTED_331OX   | NFPA 704 Diamond Sign with 3-3-1-OX Hazard Ratings NFPA_PRINTED_331OX  | Compliance Signs        | $16.50    | 6  | $99.00
 NFPA-Chart_1         | NFPA 704 NFPA Rating Guide Sign NFPA-Chart-1 NFPA Diamonds             | Compliance Signs        | $11.60    | 1  | $11.60
 
-# Work Tables
+## Work Tables
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 432480-WF204TOPCHC10 | 2-in x 4-in x 10-ft Fir Lumber                                         | Lowe's Home Improvement | $12.92    | 18 | $232.56
@@ -74,7 +74,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 1148794-48464        | Deck Plus #10 x 2-1/2-in Wood To Wood Deck Screws (73) (1 pound)       | Lowe's Home Improvement | $17.98    |  4 | $71.92
 1148791-48466        | Deck Plus #10 x 3-in Wood To Wood Deck Screws (62) (1 pound)           | Lowe's Home Improvement | $17.98    |  1 | $17.98
 
-# Stationary Tools
+## Stationary Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -85,7 +85,7 @@ BG4282               | WEN BG4282 4.8-Amp 8-Inch Single Speed Bench Grinder     
 430DPC               | WEN 430DPC Drill Press Clamp, 12"                                      | Amazon                  | $16.39    | 4  | $65.56
 DW713                | 15 Amp Corded 10 in. Compound Single Bevel Miter Saw                   | Home Depot              | $219.00   | 1  | $219.00
 
-# Pneumatic Tools
+## Pneumatic Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -101,7 +101,7 @@ DWMT70784            | DEWALT Grinder Tool, Self-locking Touch Control, 3-Inch  
 DWMT70785            | DEWALT Chisel Hammer, Pnuematic                                        | Amazon                  | $38.34    | 1  | $38.34
 DWMT70786L           | DEWALT Drill, Pneumatic, Reversible, 3/8-Inch                          | Amazon                  | $72.99    | 1  | $72.99
 
-# Power Tools
+## Power Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -110,7 +110,7 @@ DCE530B              | DEWALT 1100-BTU Heat Gun                                 
 DW088CG              | DEWALT 165 ft. Green Self-Leveling Cross Line Laser Level              | Home Depot              | $219.00   | 1  | $219.00
 DWAMRASETFT          | DEWALT Modular FlexTorq Right Angle Drill Attachment                   | Lowe's Home Improvement | $34.98    | 1  | $34.98
 
-# Hand Tools
+## Hand Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -126,7 +126,7 @@ DWMT75301B           | DEWALT 3/8" Drive Socket Rail                            
 364867-10002         | Kobalt 18mm 11-Blade Folding Utility Knife                             | Lowe's Home Improvement | $8.98     | 1  | $8.98
 
 
-# Specialty Tools
+## Specialty Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -136,7 +136,7 @@ T-RULE12             | INCRA Precision T-Rules - 12"                            
 T-RULE18             | INCRA Precision T-Rules - 18"                                          | Incremental Tools       | $46.95    | 1  | $46.95
 PROTRAC06            | INCRA Precision Specialty Rules - 6" Protractor                        | Incremental Tools       | $31.95    | 1  | $21.95
 
-# Protection
+## Protection
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -144,7 +144,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 00051131494916       | 3M Rugged Comfort Half Facepiece Reusable Respirator 6503/49491        | Amazon                  | $22.43    | 2  | $44.86
 00051138464653       | 3M Organic Vapor Cartridge/Filter 60921, P100A                         | Amazon                  | $23.94    | 5  | $119.70
 
-# Cleaning
+## Cleaning
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -152,7 +152,7 @@ B086MDQKTH           | Yocada Floor Squeegee Scrubber 54in                      
 B08TMMYK6P           | Yocada Floor Scrub Brush 55.9in                                        | Amazon                  | $19.99    | 1  | $19.99
 B091C2T16Q           | Yocada Push Broom Brush and Broom Set                                  | Amazon                  | $39.99    | 1  | $39.99
 
-# Miscellaneous Tools
+## Miscellaneous Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
