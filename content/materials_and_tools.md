@@ -14,8 +14,11 @@
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 11750-385140         | SHEETROCK Brand 3.5-Quart Premixed All-purpose Drywall Joint Compound  | Lowe's Home Improvement | $7.70     | 1  | $7.70
+222457-320737        | Insulfoam R-4.8, 1.25-in x 1.6875-ft x 8-ft                            | Lowe's Home Improvement | $71.98    | 2  | $143.96
 246933-7115          | Gator 120-Grit Commercial Sanding Sponge 2.93-in x 1-in (2-Pack)       | Lowe's Home Improvement | $6.48     | 1  | $6.48
 279032-34184         | Project Source DIY Flex 4-in Steel Putty Knife                         | Lowe's Home Improvement | $5.68     | 1  | $5.68
+523723-LN-907        | Liquid Nails 10-fl oz Extreme Liquid Nails                             | Lowe's Home Improvement | $4.58     | 4  | $18.32
+539186-59728         | Project Source 10-oz Cordless Rod Caulk Gun                            | Lowe's Home Improvement | $3.98     | 1  | $3.98
 845206-MP812-L       | Marshalltown 4.75-in W x 13.88-in L x 3.25-in D Drywall Mud Pan        | Lowe's Home Improvement | $6.48     | 1  | $6.48
 1022-42575           | Bestt Liebco Quick Solutions Angle Brush 2.5 inch                      | Sherwin Williams        | $10.09    | 1  | $10.09
 170-9385             | Sherwin-Williams 9" Premium Plastic Tray                               | Sherwin Williams        | $6.79     | 1  | $6.79
@@ -28,6 +31,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
+71519-11353          | E-Z Ancor 6-pack 1-1/4in L x 1/2-in dia #6 Drywall Anchor              | Lowe's Home Improvement | $2.28     | 3  | $6.84
 SHI_F-40W-5K-1PK     | Sunco LED Shop Light, Industrial, Frosted, 4100 Lumens, 6000K, 2 pack  | Amazon                  | $49.99    | 4  | $199.96
 
 ## Elgato Wave Panels
@@ -40,6 +44,15 @@ Part Number | Item | Purchased From | Cost | Count | Total
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
+MP-4E                | Diversitech MP4-E E.V.A. Anti-Vibration Pad, 4" x 4" x 7/8" Pack of 4  | Amazon                  | $22.25    | 3  | $66.75
+S-1815-2             | Milton S-1815-2 1/2" FNPT G Style Coupler (2 pack)                     | Amazon                  | $32.39    | 3  | $103.09
+1817                 | Milton 1817 1/2" Male Plug G-Style                                     | Amazon                  | $3.99     | 6  | $23.94
+S-653-4              | Milton S-653-4 1/2-Inch FNPT x 3/8-Inch MNPT Hose Fitting Adapter      | Amazon                  | $4.39     | 3  | $13.17
+1314271-DXCM012-0226 | DEWALT 1/2-in Kink Free 6-ft Hybrid Polymer Air Hose                   | Lowe's Home Improvement | $37.09    | 1  | $37.09
+1314267-DXCM012-0207 | DEWALT 1/2-in Kink Free 50-ft Hybrid Polymer Air Hose                  | Lowe's Home Improvement | $66.19    | 1  | $66.19
+1337-SGY-AIR29NB     | Kobalt Brass NPT Plug (F)-1/4 inch Industrial                          | Lowe's Home Improvement | $3.48     | 2  | $6.96
+15306-SGY-AIR31NB    | Kobalt Brass NPT Plug (M)-1/4 inch Industrial                          | Lowe's Home Improvement | $2.98     | 2  | $5.96
+128936-SGY-AIR26NB   | Kobalt Brass Coupler (F)-1/4 inch Universal                            | Lowe's Home Improvement | $4.48     | 2  | $8.96
 107562399            | Ingersoll Rand SS5L5 High Capacity Air Compressor, 5 HP, 60 gal        | Tractor Supply Company  | $1,149.99 | 1  | $1,149.99
 110083199            | Ingersoll Rand 1/2 in. Filter and Regulator P39344-600-VS              | Tractor Supply Company  | $139.99   | 1  | $139.99
 133421399            | DeWALT Extended Tank Drain Valve Assembly, DXCM072-0023                | Tractor Supply Company  | $29.99    | 1  | $29.99
@@ -47,15 +60,6 @@ Part Number | Item | Purchased From | Cost | Count | Total
 133309599            | JobSmart Blow Gun with Extended Nozzle                                 | Tractor Supply Company  | $12.99    | 1  | $12.99
 133320599            | JobSmart Blow Gun with 2 Foot Extension                                | Tractor Supply Company  | $19.99    | 1  | $19.99
 130877399            | JobSmart Professional Inflation Pressure Gauge, 0-220 PSI, TG-11       | Tractor Supply Company  | $17.99    | 1  | $17.99
-1314271-DXCM012-0226 | DEWALT 1/2-in Kink Free 6-ft Hybrid Polymer Air Hose                   | Lowe's Home Improvement | $37.09    | 1  | $37.09
-1314267-DXCM012-0207 | DEWALT 1/2-in Kink Free 50-ft Hybrid Polymer Air Hose                  | Lowe's Home Improvement | $66.19    | 1  | $66.19
-1337-SGY-AIR29NB     | Kobalt Brass NPT Plug (F)-1/4 inch Industrial                          | Lowe's Home Improvement | $3.48     | 2  | $6.96
-15306-SGY-AIR31NB    | Kobalt Brass NPT Plug (M)-1/4 inch Industrial                          | Lowe's Home Improvement | $2.98     | 2  | $5.96
-128936-SGY-AIR26NB   | Kobalt Brass Coupler (F)-1/4 inch Universal                            | Lowe's Home Improvement | $4.48     | 2  | $8.96
-MP-4E                | Diversitech MP4-E E.V.A. Anti-Vibration Pad, 4" x 4" x 7/8" Pack of 4  | Amazon                  | $22.25    | 3  | $66.75
-S-1815-2             | Milton S-1815-2 1/2" FNPT G Style Coupler (2 pack)                     | Amazon                  | $32.39    | 3  | $103.09
-1817                 | Milton 1817 1/2" Male Plug G-Style                                     | Amazon                  | $3.99     | 6  | $23.94
-S-653-4              | Milton S-653-4 1/2-Inch FNPT x 3/8-Inch MNPT Hose Fitting Adapter      | Amazon                  | $4.39     | 3  | $13.17
 
 ## Signage
 
@@ -63,6 +67,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 NFPA_PRINTED_331OX   | NFPA 704 Diamond Sign with 3-3-1-OX Hazard Ratings NFPA_PRINTED_331OX  | Compliance Signs        | $16.50    | 6  | $99.00
 NFPA-Chart_1         | NFPA 704 NFPA Rating Guide Sign NFPA-Chart-1 NFPA Diamonds             | Compliance Signs        | $11.60    | 1  | $11.60
+756989-RFD7020       | Scotch 1-in x 1-in 12 Pack Clear Fastener                              | Lowe's Home Improvement | $4.98     | 4  | $19.92
 
 ## Work Tables
 Part Number | Item | Purchased From | Cost | Count | Total
@@ -105,23 +110,23 @@ DWMT70786L           | DEWALT Drill, Pneumatic, Reversible, 3/8-Inch            
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
-DCK520D1M1           | DEWALT 20V MAX Cordless Drill Combo Kit, 5-Tool                        | Lowe's Home Improvement | $599.00   | 1  | $599.00
-DCE530B              | DEWALT 1100-BTU Heat Gun                                               | Lowe's Home Improvement | $139.00   | 1  | $139.00
 DW088CG              | DEWALT 165 ft. Green Self-Leveling Cross Line Laser Level              | Home Depot              | $219.00   | 1  | $219.00
+DCE530B              | DEWALT 1100-BTU Heat Gun                                               | Lowe's Home Improvement | $139.00   | 1  | $139.00
+DCK520D1M1           | DEWALT 20V MAX Cordless Drill Combo Kit, 5-Tool                        | Lowe's Home Improvement | $599.00   | 1  | $599.00
 DWAMRASETFT          | DEWALT Modular FlexTorq Right Angle Drill Attachment                   | Lowe's Home Improvement | $34.98    | 1  | $34.98
 
 ## Hand Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
-8220-2/28            | Dremel 8220-2/28 12-Volt Max Cordless Rotary Tool Kit                  | Amazon                  | $119.99   | 1  | $119.99
-710-08               | Dremel Rotary Tool Accessory Kit                                       | Amazon                  | $34.97    | 1  | $34.97
 1311251-67248        | Kobalt Screwdrivers 20-Piece Plastic Handle Magnetic Assorted Set      | Amazon                  | $41.35    | 2  | $82.70
 2884761-81730        | Kobalt 20-Piece Set 12-Point Standard (SAE) and Metric Ratchet Wrench  | Amazon                  | $88.32    | 2  | $176.64
-DWMT19248            | DEWALT Impact Socket Set, SAE/MM, 3/8-Inch Drive, 42-Piece             | Amazon                  | $116.65   | 2  | $233.30
-DWAX200              | DEWALT Screwdriver Set, Security, 31-pc.                               | Amazon                  | $17.98    | 1  | $17.98
-DWAX100IR            | DEWALT IMPACT READY Screwdriving Tough Case Set, Extra Small, 31-pc    | Amazon                  | $20.00    | 1  | $20.00
+710-08               | Dremel Rotary Tool Accessory Kit                                       | Amazon                  | $34.97    | 1  | $34.97
+8220-2/28            | Dremel 8220-2/28 12-Volt Max Cordless Rotary Tool Kit                  | Amazon                  | $119.99   | 1  | $119.99
 DW1369               | DEWALT Titanium Drill Bit Set with Pilot Point, 29-Piece               | Amazon                  | $96.84    | 1  | $96.84
+DWAX100IR            | DEWALT IMPACT READY Screwdriving Tough Case Set, Extra Small, 31-pc    | Amazon                  | $20.00    | 1  | $20.00
+DWAX200              | DEWALT Screwdriver Set, Security, 31-pc.                               | Amazon                  | $17.98    | 1  | $17.98
+DWMT19248            | DEWALT Impact Socket Set, SAE/MM, 3/8-Inch Drive, 42-Piece             | Amazon                  | $116.65   | 2  | $233.30
 DWMT75301B           | DEWALT 3/8" Drive Socket Rail                                          | Amazon                  | $7.69     | 8  | $61.52
 364867-10002         | Kobalt 18mm 11-Blade Folding Utility Knife                             | Lowe's Home Improvement | $8.98     | 1  | $8.98
 
@@ -130,19 +135,19 @@ DWMT75301B           | DEWALT 3/8" Drive Socket Rail                            
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
-TINYT03              | INCRA Precision Tiny T-Rules - 3"                                      | Incremental Tools       | $14.95    | 1  | $14.95
+PROTRAC06            | INCRA Precision Specialty Rules - 6" Protractor                        | Incremental Tools       | $31.95    | 1  | $21.95
 T-RULE06             | INCRA Precision T-Rules - 6"                                           | Incremental Tools       | $21.95    | 1  | $21.95
 T-RULE12             | INCRA Precision T-Rules - 12"                                          | Incremental Tools       | $36.95    | 1  | $36.95
 T-RULE18             | INCRA Precision T-Rules - 18"                                          | Incremental Tools       | $46.95    | 1  | $46.95
-PROTRAC06            | INCRA Precision Specialty Rules - 6" Protractor                        | Incremental Tools       | $31.95    | 1  | $21.95
+TINYT03              | INCRA Precision Tiny T-Rules - 3"                                      | Incremental Tools       | $14.95    | 1  | $14.95
 
 ## Protection
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
-20104                | X-TRA Thick Black Nitrile Powder Free Examination Gloves               | Amazon                  | $20.35    | 1  | $20.35
 00051131494916       | 3M Rugged Comfort Half Facepiece Reusable Respirator 6503/49491        | Amazon                  | $22.43    | 2  | $44.86
 00051138464653       | 3M Organic Vapor Cartridge/Filter 60921, P100A                         | Amazon                  | $23.94    | 5  | $119.70
+20104                | X-TRA Thick Black Nitrile Powder Free Examination Gloves               | Amazon                  | $20.35    | 1  | $20.35
 
 ## Cleaning
 
@@ -156,12 +161,12 @@ B091C2T16Q           | Yocada Push Broom Brush and Broom Set                    
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
-HD1200               | RIDGID 12 Gal. 5.0-Peak HP NXT Wet/Dry Shop Vacuum                     | Home Depot              | $79.97    | 1  | $79.97
 46319                | Pittsburgh Automotive Pneumatic Roller Seat                            | Harbor Freight          | $39.99    | 1  | $39.99
 61897                | Haul-Master 30 In x 18 In 1000 lb. Capacity Hardwood Dolly             | Harbor Freight          | $24.99    | 1  | $24.99
+HD1200               | RIDGID 12 Gal. 5.0-Peak HP NXT Wet/Dry Shop Vacuum                     | Home Depot              | $79.97    | 1  | $79.97
 2180118-10006        | Kobalt 42-in W x 58.8-in H 13 Ball-bearing Steel Tool Chest            | Lowe's Home Improvement | $649.00   | 1  | $649.00
-339949-339949        | 36-in W x 24-in D x 72-in H 5-Tier Plastic Utility Shelving Unit       | Lowe's Home Improvement | $75.98    | 6  | $455.88
-337310-85867         | 3/8-in Breaker Bar                                                     | Lowe's Home Improvement | $29.96    | 2  | $59.92
 2570375-KBSWT27      | Wire Cutter/Crimper                                                    | Lowe's Home Improvement | $19.98    | 1  | $19.98
 2884760-81729        | 14-key Standard (Sae) and Metric Combination Hex Key Set               | Lowe's Home Improvement | $39.98    | 1  | $39.98
+337310-85867         | 3/8-in Breaker Bar                                                     | Lowe's Home Improvement | $29.96    | 2  | $59.92
+339949-339949        | 36-in W x 24-in D x 72-in H 5-Tier Plastic Utility Shelving Unit       | Lowe's Home Improvement | $75.98    | 6  | $455.88
 76328                | 100-Pack 4-in Nylon Zip Cable Ties                                     | Lowe's Home Improvement | $4.78     | 1  | $4.78
