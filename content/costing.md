@@ -21,7 +21,7 @@ Wings                         | $9,275.00   | <progress id="0Wings" value="0" ma
 Wings Crating                 | $140.00     | <progress id="0WingsCrate" value="0" max="140"></progress> 0%         | <progress id="1WingsCrate" value="140" max="140"></progress> 100%      | <progress id="2WingsCrate" value="0" max="140"></progress> 0%
 Wings Taxes                   | $482.52     | <progress id="0WingsTaxes" value="0" max="483"></progress> 0%         | <progress id="1WingsTaxes" value="483" max="483"></progress> 100%      | <progress id="2WingsTaxes" value="0" max="483"></progress> 0%
 &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;
-Fuselage - Slider             | $7,375.00   | <progress id="0Fuselage" value="0" max="7375"></progress> 0%          | <progress id="1Fuselage" value="1171" max="7375"></progress> 16%       | <progress id="2Fuselage" value="0" max="7375"></progress> 0%
+Fuselage - Slider             | $7,375.00   | <progress id="0Fuselage" value="0" max="7375"></progress> 0%          | <progress id="1Fuselage" value="7375" max="7375"></progress> 100%       | <progress id="2Fuselage" value="0" max="7375"></progress> 0%
 &emsp;Dual Brakes             | $295.00     | <progress id="0FuselageBrakes" value="0" max="295"></progress> 0%     | <progress id="1FuselageBrakes" value="295" max="295"></progress> 100%  | <progress id="2FuselageBrakes" value="0" max="295"></progress> 0%
 &emsp;Electric Aileron Trim   | $450.00     | <progress id="0FuselageTrim" value="0" max="450"></progress> 0%       | <progress id="1FuselageTrim" value="450" max="450"></progress> 100%    | <progress id="2FuselageTrim" value="0" max="450"></progress> 0%
 &emsp;Static Air Kit          | $19.00      | <progress id="0FuselageStatic" value="0" max="19"></progress> 0%      | <progress id="1FuselageStatic" value="19" max="19"></progress> 100%    | <progress id="2FuselageStatic" value="0" max="19"></progress> 0%
@@ -33,7 +33,7 @@ Finishing - Slider            | $8,500.00   | <progress id="0Finishing" value="0
 Finishing Crating             | $140.00     | <progress id="0FinishingCrate" value="0" max="140"></progress> 0%     | <progress id="1FinishingCrate" value="140" max="140"></progress> 100%  | <progress id="2FinishingCrate" value="0" max="140"></progress> 0%
 Finishing Taxes               | $436.66     | <progress id="0FinishingTaxes" value="0" max="437"></progress> 0%     | <progress id="1FinishingTaxes" value="437" max="437"></progress> 100%  | <progress id="2FinishingTaxes" value="0" max="437"></progress> 0%
 &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;
-**Airframe Subtotal**         | $30,359.06  | <progress id="0Subtotal" value="10" max="30359"></progress> 0%        | <progress id="1Subtotal" value="11602" max="30359"></progress> 38%     | <progress id="2Subtotal" value="0" max="30359"></progress> 0%
+**Airframe Subtotal**         | $30,359.06  | <progress id="0Subtotal" value="10" max="30359"></progress> 0%        | <progress id="1Subtotal" value="18056" max="30359"></progress> 59%     | <progress id="2Subtotal" value="0" max="30359"></progress> 0%
 &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;
 Engine                        | $30,000.00  | <progress id="0Engine" value="0" max="30000"></progress> 0%           | <progress id="1Engine" value="0" max="30000"></progress> 0%            | <progress id="2Engine" value="0" max="30000"></progress> 0%
 Propeller                     | $6,000.00   | <progress id="0Propeller" value="0" max="6000"></progress> 0%         | <progress id="1Propeller" value="0" max="6000"></progress> 0%          | <progress id="2Propeller" value="0" max="6000"></progress> 0%
@@ -41,4 +41,4 @@ Inverted Oil                  | $1,000.00   | <progress id="0Inverted" value="0"
 Avionics                      | $35,000.00  | <progress id="0Avionics" value="0" max="35000"></progress> 0%         | <progress id="1Avionics" value="0" max="35000"></progress> 0%          | <progress id="2Avionics" value="0" max="35000"></progress> 0%
 Exterior Paint                | $5,000.00   | <progress id="0Paint" value="0" max="5000"></progress> 0%             | <progress id="1Paint" value="0" max="5000"></progress> 0%              | <progress id="2Paint" value="0" max="5000"></progress> 0%
 &nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;
-**Grand Total**               | $107,359.06 | <progress id="0Total" value="10" max="107359"></progress> 0%          | <progress id="1Total" value="11602" max="107359"></progress> 11%       | <progress id="2Total" value="0" max="107359"></progress> 0%
+**Grand Total**               | $107,359.06 | <progress id="0Total" value="10" max="107359"></progress> 0%          | <progress id="1Total" value="18056" max="107359"></progress> 17%       | <progress id="2Total" value="0" max="107359"></progress> 0%
