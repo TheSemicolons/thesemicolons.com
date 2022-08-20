@@ -34,6 +34,16 @@ Part Number | Item | Purchased From | Cost | Count | Total
 71519-11353          | E-Z Ancor 6-pack 1-1/4in L x 1/2-in dia #6 Drywall Anchor              | Lowe's Home Improvement | $2.28     | 3  | $6.84
 SHI_F-40W-5K-1PK     | Sunco LED Shop Light, Industrial, Frosted, 4100 Lumens, 6000K, 2 pack  | Amazon                  | $49.99    | 4  | $199.96
 
+## Garage Air Conditioning
+
+Part Number | Item | Purchased From | Cost | Count | Total
+------------|------|----------------|------|-------|------
+BPACT14WT            | BLACK+DECKER Air Conditioner, 14,000 BTU Air Conditioner               | Amazon                  | $449.99   | 1  | $449.99
+HGC736501            | Hurricane Box Fan - 20 Inch                                            | Amazon                  | $33.99    | 2  | $67.98
+PI431                | HG POWER 5 Inch Dryer Vent Hose, 16 Feet Long Flexible PVC Hose        | Amazon                  | $18.99    | 1  | $18.99
+225507-3350          | 3M HVAC Tape 1.88in x 360ft                                            | Lowe's Home Improvement | $15.98    | 1  | $15.98
+242134-UTK506725     | Utilitech 25ft 14/3 Medium Duty Extension Cord                         | Lowe's Home Improvement | 22.98     | 1  | $22.98
+
 ## Elgato Wave Panels
 
 Part Number | Item | Purchased From | Cost | Count | Total
@@ -131,7 +141,7 @@ DWMT75301B           | DEWALT 3/8" Drive Socket Rail                            
 364867-10002         | Kobalt 18mm 11-Blade Folding Utility Knife                             | Lowe's Home Improvement | $8.98     | 1  | $8.98
 
 
-## Specialty Tools
+## Measuring Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -161,6 +171,7 @@ B091C2T16Q           | Yocada Push Broom Brush and Broom Set                    
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
+B07QXP3ZD1           | WINONLY Door Stopper, Magnetic Door Stop, Stainless Steel              | Amazon                  | $12.98    | 1  | $12.98
 46319                | Pittsburgh Automotive Pneumatic Roller Seat                            | Harbor Freight          | $39.99    | 1  | $39.99
 61897                | Haul-Master 30 In x 18 In 1000 lb. Capacity Hardwood Dolly             | Harbor Freight          | $24.99    | 1  | $24.99
 HD1200               | RIDGID 12 Gal. 5.0-Peak HP NXT Wet/Dry Shop Vacuum                     | Home Depot              | $79.97    | 1  | $79.97
