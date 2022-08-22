@@ -1,7 +1,7 @@
-name = "nord"
+name = "solarized"
 license = "ISC"
 licenselink = "https://en.wikipedia.org/wiki/ISC_license#OpenBSD_license"
-description = "Nord Hugo Theme"
+description = "Solarized Hugo Theme"
 homepage = "https://thesemicolons.com/"
 tags = ["blog"]
 features = ["blog"]
