@@ -1,6 +1,6 @@
 ---
 {
-	"author": "James Anderson",
+	"author": "Jim Anderson",
 	"date": "2021-01-01",
 	"menu": "footer",
 	"title": "License Agreement",
