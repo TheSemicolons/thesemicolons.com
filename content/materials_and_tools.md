@@ -62,6 +62,7 @@ S-653-4              | Milton S-653-4 1/2-Inch FNPT x 3/8-Inch MNPT Hose Fitting
 1314267-DXCM012-0207 | DEWALT 1/2-in Kink Free 50-ft Hybrid Polymer Air Hose                  | Lowe's Home Improvement | $66.19    | 1  | $66.19
 1337-SGY-AIR29NB     | Kobalt Brass NPT Plug (F)-1/4 inch Industrial                          | Lowe's Home Improvement | $3.48     | 2  | $6.96
 15306-SGY-AIR31NB    | Kobalt Brass NPT Plug (M)-1/4 inch Industrial                          | Lowe's Home Improvement | $2.98     | 2  | $5.96
+127954-SGY-AIR54NB   | Kobalt  NPT Brass Bushing Adapter 1/2-in (M) x 1/4-in (F)              | Lowe's Home Improvement | $4.98     | 1  | $4.98
 128936-SGY-AIR26NB   | Kobalt Brass Coupler (F)-1/4 inch Universal                            | Lowe's Home Improvement | $4.48     | 2  | $8.96
 107562399            | Ingersoll Rand SS5L5 High Capacity Air Compressor, 5 HP, 60 gal        | Tractor Supply Company  | $1,149.99 | 1  | $1,149.99
 110083199            | Ingersoll Rand 1/2 in. Filter and Regulator P39344-600-VS              | Tractor Supply Company  | $139.99   | 1  | $139.99
@@ -70,6 +71,7 @@ S-653-4              | Milton S-653-4 1/2-Inch FNPT x 3/8-Inch MNPT Hose Fitting
 133309599            | JobSmart Blow Gun with Extended Nozzle                                 | Tractor Supply Company  | $12.99    | 1  | $12.99
 133320599            | JobSmart Blow Gun with 2 Foot Extension                                | Tractor Supply Company  | $19.99    | 1  | $19.99
 130877399            | JobSmart Professional Inflation Pressure Gauge, 0-220 PSI, TG-11       | Tractor Supply Company  | $17.99    | 1  | $17.99
+550054449            | Sehll T2 SAE 30 Motor Oil, 1 Gallon                                    | Tractor Supply Company  | $21.99    | 1  | $21.99
 
 ## Signage
 
@@ -138,7 +140,9 @@ DWAX100IR            | DEWALT IMPACT READY Screwdriving Tough Case Set, Extra Sm
 DWAX200              | DEWALT Screwdriver Set, Security, 31-pc.                               | Amazon                  | $17.98    | 1  | $17.98
 DWMT19248            | DEWALT Impact Socket Set, SAE/MM, 3/8-Inch Drive, 42-Piece             | Amazon                  | $116.65   | 2  | $233.30
 DWMT75301B           | DEWALT 3/8" Drive Socket Rail                                          | Amazon                  | $7.69     | 8  | $61.52
+2545066-DT-926KIT    | Kobalt  10 Amp 50-1000-Volt Digital Specialty Meter                    | Lowe's Home Improvement | $29.98    | 1  | $29.98
 364867-10002         | Kobalt 18mm 11-Blade Folding Utility Knife                             | Lowe's Home Improvement | $8.98     | 1  | $8.98
+420305-BU-90-K 34117 | Kobalt 36-in Steel Wrecking Bar                                        | Lowe's Home Improvement | $14.98    | 1  | $14.98
 
 
 ## Measuring Tools
@@ -158,6 +162,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 00051131494916       | 3M Rugged Comfort Half Facepiece Reusable Respirator 6503/49491        | Amazon                  | $22.43    | 2  | $44.86
 00051138464653       | 3M Organic Vapor Cartridge/Filter 60921, P100A                         | Amazon                  | $23.94    | 5  | $119.70
 20104                | X-TRA Thick Black Nitrile Powder Free Examination Gloves               | Amazon                  | $20.35    | 1  | $20.35
+314107-PRO5          | First Alert  Rechargeable 3-a:40-b:c Fire Extinguisher                 | Lowe's Home Improvement | $64.98    | 2  | $129.96
 
 ## Cleaning
 
@@ -179,5 +184,5 @@ HD1200               | RIDGID 12 Gal. 5.0-Peak HP NXT Wet/Dry Shop Vacuum       
 2570375-KBSWT27      | Wire Cutter/Crimper                                                    | Lowe's Home Improvement | $19.98    | 1  | $19.98
 2884760-81729        | 14-key Standard (Sae) and Metric Combination Hex Key Set               | Lowe's Home Improvement | $39.98    | 1  | $39.98
 337310-85867         | 3/8-in Breaker Bar                                                     | Lowe's Home Improvement | $29.96    | 2  | $59.92
-339949-339949        | 36-in W x 24-in D x 72-in H 5-Tier Plastic Utility Shelving Unit       | Lowe's Home Improvement | $75.98    | 6  | $455.88
+339949-339949        | 36-in W x 24-in D x 72-in H 5-Tier Plastic Utility Shelving Unit       | Lowe's Home Improvement | $75.98    | 7  | $531.86
 76328                | 100-Pack 4-in Nylon Zip Cable Ties                                     | Lowe's Home Improvement | $4.78     | 1  | $4.78
