@@ -29,6 +29,11 @@
 				"name": "Tags",
 				"url": "/tags/",
 				"weight": 101
+			},
+			{
+				"name": "LIVE",
+				"url": "https://thesemicolons.live",
+				"weight": 102
 			}
 		]
 	},
