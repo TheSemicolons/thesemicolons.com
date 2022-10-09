@@ -174,11 +174,13 @@ DWMT19248               | DEWALT Impact Socket Set, SAE/MM, 3/8-Inch Drive, 42-P
 DWMT75301B              | DEWALT 3/8" Drive Socket Rail                                            | Amazon                   | $7.69     | 8  | $61.52
 118178-1964718          | QUICK-GRIP 12-in Medium-Duty One Handed Bar Clamp                        | Lowe's Home Improvement  | $24.98    | 4  | $99.92
 2545066-DT-926KIT       | Kobalt 10 Amp 50-1000-Volt Digital Specialty Meter                       | Lowe's Home Improvement  | $29.98    | 1  | $29.98
+337632-85631            | Kobalt 19-mm 12-point Metric Standard Combination Wrench                 | Lowe's Home Improvement  | $11.98    | 2  | $23.96
 337663-85636            | Kobalt 24-mm 12-point Metric Standard Combination Wrench                 | Lowe's Home Improvement  | $24.98    | 2  | $49.96
 3489063-KB6009          | Kobalt 9-in Magnetic Torpedo Level                                       | Lowe's Home Improvement  | $9.98     | 1  | $9.98
 3489067-KB8024          | Kobalt 24-in Heavy Duty Box Beam Level                                   | Lowe's Home Improvement  | $24.98    | 1  | $24.98
 364867-10002            | Kobalt 18mm 11-Blade Folding Utility Knife                               | Lowe's Home Improvement  | $8.98     | 1  | $8.98
 420305-BU-90-K 34117    | Kobalt 36-in Steel Wrecking Bar                                          | Lowe's Home Improvement  | $14.98    | 1  | $14.98
+720854-87720            | Kobalt 21-mm 12-point Metric Standard Combination Wrench                 | Lowe's Home Improvement  | $10.06    | 2  | $20.12
 788455-423-400G-SBP     | 3M SandBlaster Pro Extra Fine 400-Grit Sheet Sandpaper                   | Lowe's Home Improvement  | $6.98     | 2  | $13.96
 961371-57373            | Kobalt 8-in Serrated Molded Grip Scissors                                | Lowe's Home Improvement  | $11.98    | 1  | $11.98
 
@@ -323,10 +325,12 @@ HD1200                  | RIDGID 12 Gal. 5.0-Peak HP NXT Wet/Dry Shop Vacuum    
 369819-HDPRO36          | 32-oz Plastic Professional Spray Bottle                                  | Lowe's Home Improvement  | $3.48     | 1  | $3.48
 615233-78230            | 6-Outlet 750 Joules 1875-Watt Ac Surge Protector                         | Lowe's Home Improvement  | $13.02    | 4  | $52.08
 70372-UT501635          | Project Source 100-ft 16/3 3-Prong Outdoor Light Duty Extension Cord     | Lowe's Home Improvement  | $25.98    | 2  | $51.96
+728635-FG295300WHT      | 1.5-Gallon White Plastic Trash Can                                       | Lowe's Home Improvement  | $4.48     | 1  | $4.48
 76328                   | 100-Pack 4-in Nylon Zip Cable Ties                                       | Lowe's Home Improvement  | $4.78     | 1  | $4.78
 105-5524                | All-Purpose Mixing Container with Ratios, 5 Quart                        | Sherwin Williams         | $4.59     | 3  | $13.77
 105-5516                | All-Purpose Mixing Container with Ratios, 2.5 Quart                      | Sherwin Williams         | $3.09     | 3  | $9.27
 105-5508                | All-Purpose Mixing Container with Ratios, 1 Quart                        | Sherwin Williams         | $1.89     | 3  | $5.67
+MSS000018417001-57820   | Mainstays Basic Indoor 8.78 Inch Black Analog Round Modern Wall Clock    | Walmart                  | $4.52     | 1  | $4.52
 
 ## Unnecessary
 
