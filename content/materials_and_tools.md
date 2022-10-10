@@ -57,6 +57,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 1817                    | Milton 1817 1/2" Male Plug G-Style                                       | Amazon                   | $3.99     | 6  | $23.94
 1858                    | Milton 1858 1/2" FNPT G Style Plug, 5 Count                              | Amazon                   | $16.44    | 2  | $32.88
+16573                   | 3M Accuspray Air Flow Control Valve                                      | Amazon                   | $36.55    | 1  | $36.55
 104409                  | ARO 104409 C-Type Wall Bracket for 2000 Series                           | Amazon                   | $28.49    | 1  | $28.49
 MP-4E                   | Diversitech MP4-E E.V.A. Anti-Vibration Pad, 4" x 4" x 7/8" Pack of 4    | Amazon                   | $22.25    | 3  | $66.75
 S-653-4                 | Milton S-653-4 1/2-Inch FNPT x 3/8-Inch MNPT Hose Fitting Adapter        | Amazon                   | $4.39     | 3  | $13.17
