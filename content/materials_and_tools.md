@@ -128,11 +128,12 @@ UA02-4PK                | Filtrete 20x20x1, AC Furnace Air Filter, MPR 1900, 4Pa
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 3939T                   | WEN 3939T 2.8-Amp 9-Inch Benchtop Band Saw                               | Amazon                   | $248.32   | 1  | $248.32
-6502T                   | WEN 6502T 4.3-Amp 4 x 36 in. Belt and 6 in. Disc Sander                  | Amazon                   | $114.82   | 1  | $114.82
 4214T                   | WEN 4214T 12 in. Variable Speed Drill Press                              | Amazon                   | $301.62   | 1  | $301.62
+430DPC                  | WEN 430DPC Drill Press Clamp, 12"                                        | Amazon                   | $16.39    | 4  | $65.56
+6502T                   | WEN 6502T 4.3-Amp 4 x 36 in. Belt and 6 in. Disc Sander                  | Amazon                   | $114.82   | 1  | $114.82
 BG4260                  | WEN BG4260 2.1-Amp 6-Inch Single Speed Bench Grinder                     | Amazon                   | $55.41    | 1  | $55.41
 BG4282                  | WEN BG4282 4.8-Amp 8-Inch Single Speed Bench Grinder                     | Amazon                   | $98.87    | 1  | $98.87
-430DPC                  | WEN 430DPC Drill Press Clamp, 12"                                        | Amazon                   | $16.39    | 4  | $65.56
+BV456                   | WEN BV456 6-Inch Heavy Duty Cast Iron Bench Vise with Swivel Base        | Amazon                   | $118.72   | 1  | $118.72
 DW713                   | 15 Amp Corded 10 in. Compound Single Bevel Miter Saw                     | Home Depot               | $219.00   | 1  | $219.00
 
 ## Pneumatic Tools
