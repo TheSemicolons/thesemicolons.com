@@ -182,6 +182,10 @@ DWMT75301B              | DEWALT 3/8" Drive Socket Rail                         
 3489067-KB8024          | Kobalt 24-in Heavy Duty Box Beam Level                                   | Lowe's Home Improvement  | $24.98    | 1  | $24.98
 364867-10002            | Kobalt 18mm 11-Blade Folding Utility Knife                               | Lowe's Home Improvement  | $8.98     | 1  | $8.98
 420305-BU-90-K 34117    | Kobalt 36-in Steel Wrecking Bar                                          | Lowe's Home Improvement  | $14.98    | 1  | $14.98
+464303-30010S           | Southwire 1 amp Digital Infrared Thermometer (-30 to 371 C)              | Lowe's Home Improvement  | $34.98    | 1  | $34.98
+464600-55734            | Kobalt 7-in Home Repair Diagonal Cutting Pliers                          | Lowe's Home Improvement  | $10.98    | 1  | $10.98
+464618-55746            | Kobalt 4.5-in Pliers with Wire Cutter                                    | Lowe's Home Improvement  | $6.28     | 1  | $6.28
+473081-SA822            | Southwire 8-22 AWG Automatic Wire Strippers (18-22 Solid, 10-24 Stranded | Lowe's Home Improvement  | $23.38    | 1  | $23.38
 720854-87720            | Kobalt 21-mm 12-point Metric Standard Combination Wrench                 | Lowe's Home Improvement  | $10.06    | 2  | $20.12
 788455-423-400G-SBP     | 3M SandBlaster Pro Extra Fine 400-Grit Sheet Sandpaper                   | Lowe's Home Improvement  | $6.98     | 2  | $13.96
 961371-57373            | Kobalt 8-in Serrated Molded Grip Scissors                                | Lowe's Home Improvement  | $11.98    | 1  | $11.98
@@ -287,6 +291,7 @@ DPG58-11C               | Dewalt DPG58-11C Reinforcer Clear Anti-Fog Protective 
 314107-PRO5             | First Alert Rechargeable 3-a:40-b:c Fire Extinguisher                    | Lowe's Home Improvement  | $64.98    | 2  | $129.96
 161-9345                | Sherwin-Williams .31 Mil High Density Painter's Plastic, 12-in x 400-in  | Sherwin Williams         | $31.29    | 1  | $31.29
 1001-27141              | Warner Knee Pads                                                         | Sherwin Williams         | $26.99    | 1  | $26.99
+6509-34987              | Trimaco DuPont Tyvek Protective Coverall with Hood and Boots (L/XL)      | Sherwin Williams         | $14.99    | 3  | $44.97
 
 ## Cleaning
 
@@ -309,6 +314,13 @@ Part Number | Item | Purchased From | Cost | Count | Total
 160-0691                | Startex Acetone, 1 Quart                                                 | Sherwin Williams         | $21.89    | 1  | $21.89
 160-0717                | Startex Xylene, 1 Quart                                                  | Sherwin Williams         | $15.99    | 1  | $15.99
 958-8393                | Startex Paint Thinner, 1 Gallon                                          | Sherwin Williams         | $18.29    | 1  | $18.29
+
+## Paint
+
+Part Number | Item | Purchased From | Cost | Count | Total
+------------|------|----------------|------|-------|------
+CM0724933               | MIL-P-23377K/Type I-C2, Corrosion Resistant Epoxy Primer (Part A)        | Sherwin Williams         | $128.64   | 1  | $128.64
+CM0120933               | MIL-PRF-23377K, Type I, Class C2, Component B, Curing Agent              | Sherwin Williams         | $34.34    | 1  | $34.34
 
 ## Miscellaneous Tools
 
@@ -339,3 +351,4 @@ MSS000018417001-57820   | Mainstays Basic Indoor 8.78 Inch Black Analog Round Mo
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 FRIDGE-DOODLE           | G FUEL Mini Fridge - Doodle                                              | G FUEL Energy            | $599.00   | 1  | $599.00
+21062e                  | Apple Barrel Acrylic Craft Paint, Matte Finish, Purple Iris, 8 fl oz     | Walmart                  | $2.67     | 1  | $2.67
