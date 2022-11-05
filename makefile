@@ -26,7 +26,7 @@ install: public
 
 public:
 	hugo
-	find public -type f -exec gzip -k {} \;
+	find public -type f -exec gzip -fk {} \;
 
 clean:
 	rm -Rf public resources

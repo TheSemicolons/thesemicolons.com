@@ -1,0 +1,12 @@
+name = "spacegray"
+license = "ISC"
+licenselink = "https://en.wikipedia.org/wiki/ISC_license#OpenBSD_license"
+description = "Space Gray Hugo Theme"
+homepage = "https://thesemicolons.com/"
+tags = ["blog"]
+features = ["blog"]
+min_verseion = "0.1"
+
+[author]
+  name = "James Anderson"
+  homepage = "https://thesemicolons.com"
