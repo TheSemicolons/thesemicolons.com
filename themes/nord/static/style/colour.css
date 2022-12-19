@@ -1,0 +1,63 @@
+:root {
+	--base00: rgba( 45,  50,  65, 1.0);
+	--base01: rgba(190,  95, 106, 1.0);
+	--base02: rgba(165, 190, 140, 1.0);
+	--base03: rgba(235, 205, 140, 1.0);
+	--base04: rgba( 95, 130, 170, 1.0);
+	--base05: rgba(180, 140, 175, 1.0);
+	--base06: rgba(145, 190, 185, 1.0);
+	--base07: rgba(215, 220, 235, 1.0);
+
+	--base08: rgba( 75,  85, 105, 1.0);
+	--base09: rgba(190,  95, 106, 1.0);
+	--base10: rgba(165, 190, 140, 1.0);
+	--base11: rgba(235, 205, 140, 1.0);
+	--base12: rgba( 95, 130, 170, 1.0);
+	--base13: rgba(180, 140, 175, 1.0);
+	--base14: rgba(145, 190, 185, 1.0);
+	--base15: rgba(235, 240, 245, 1.0);
+
+	--blue0: var(--base12);
+	--cyan0: var(--base14);
+	--green0: var(--base10);
+	--red0: var(--base09);
+	--violet0: var(--base13);
+	--yellow0: var(--base11);
+
+	--blue1: var(--base04);
+	--cyan1: var(--base06);
+	--green1: var(--base02);
+	--red1: var(--base01);
+	--violet1: var(--base05);
+	--yellow1: var(--base03);
+
+	--bg: var(--base08);
+	--fg: var(--base07);
+	--cbg: var(--base00);
+	--cfg: var(--base15);
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg: var(--base15);
+		--fg: var(--base00);
+		--cbg: var(--base07);
+		--cfg: var(--base08);
+	}
+}
+
+#color-mode:checked ~ * {
+	--bg: var(--base15);
+	--fg: var(--base00);
+	--cbg: var(--base07);
+	--cfg: var(--base08);
+}
+
+@media (prefers-color-scheme: dark) {
+	#color-mode:checked ~ * {
+		--bg: var(--base08);
+		--fg: var(--base07);
+		--cbg: var(--base00);
+		--cfg: var(--base15);
+	}
+}

@@ -1,0 +1,6 @@
+<nav>
+	<ul>
+		{{ if not (gt (len .Site.Menus) 1) }}<li><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></li>{{ end }}
+		{{ range .Site.Menus.main }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}
+	</ul>
+</nav>

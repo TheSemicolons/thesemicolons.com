@@ -1,0 +1,36 @@
+nav > ul
+{
+	align-content: flex-start;
+	align-items: flex-start;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav > ul > li
+{
+	padding: 5px 0;
+}
+
+nav > ul > li > a
+{
+	align-self: flex-start;
+	background-color: var(--cbg);
+	color: var(--blue0);
+	flex: 0 1 auto;
+	order: 0;
+	padding: 5px 10px;
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+nav > ul > li > a:hover
+{
+	background-color: var(--blue0);
+	color: var(--cbg);
+	text-decoration: none;
+}

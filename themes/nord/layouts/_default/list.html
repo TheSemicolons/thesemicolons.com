@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ $blogPages := where .Site.RegularPages "Section" "==" "posts" }}
+
+{{- range (.Paginate $blogPages).Pages }}
+<article>
+	<h2>{{ .Title }}</h2>
+	{{ .Summary }}
+	<p><a href="{{ .Permalink }}">Read More...</a></p>
+
+	<ul class="postDetails">
+		<li>Tags:</li>
+		{{ range .Params.tags }}<li class="tag"><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a></li>{{ end }}
+		<li class="date">{{ .Date.Format "02 January 2006" }}</li>
+	</ul>
+</article>
+{{- end }}
+
+{{ partial "pagination.html" . }}
+
+{{ end }}

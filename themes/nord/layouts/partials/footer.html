@@ -1,0 +1,9 @@
+<footer>
+	<p>&copy; {{ .Site.Copyright }}</p>
+	<ul>
+		{{ range .Site.Menus.socials }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}
+	</ul>
+	<ul>
+		{{ range .Site.Menus.footer }}<li><a href="{{ .URL }}">{{ .Name }}</a></li>{{ end }}
+	</ul>
+</footer>
