@@ -1,4 +1,5 @@
 .hugo_build.lock
+*.gz
 public/
 resources/
 content/posts/tmp.md
