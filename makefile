@@ -22,7 +22,7 @@ VERSION   = 0.1
 all: public
 
 install: public
-	openrsync -av --delete public/ web0.thesemicolons.com:/home/www/htdocs/thesemicolons.com
+	openrsync -av --delete --exclude traffic_graphs/*.png --exclude traffic_graphs/*.png.gz public/ web0.thesemicolons.com:/home/www/htdocs/thesemicolons.com
 
 public:
 	hugo

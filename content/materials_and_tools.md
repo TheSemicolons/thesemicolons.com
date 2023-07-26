@@ -178,6 +178,7 @@ DWAX200                 | DEWALT Screwdriver Set, Security, 31-pc.              
 DWMT19248               | DEWALT Impact Socket Set, SAE/MM, 3/8-Inch Drive, 42-Piece               | Amazon                   | $116.65   | 2  | $233.30
 DWMT75301B              | DEWALT 3/8" Drive Socket Rail                                            | Amazon                   | $7.69     | 8  | $61.52
 FG6C0100                | Rubbermaid Commercial Products Dustpan and Brush Set                     | Amazon                   | $10.95    | 1  | $10.95
+0835DT                  | Kestrel 3500 Delta-T Weather Meter                                       | Kestrel Meters           | $199.00   | 1  | $199.00
 118178-1964718          | QUICK-GRIP 12-in Medium-Duty One Handed Bar Clamp                        | Lowe's Home Improvement  | $24.98    | 4  | $99.92
 2545066-DT-926KIT       | Kobalt 10 Amp 50-1000-Volt Digital Specialty Meter                       | Lowe's Home Improvement  | $29.98    | 1  | $29.98
 337632-85631            | Kobalt 19-mm 12-point Metric Standard Combination Wrench                 | Lowe's Home Improvement  | $11.98    | 2  | $23.96
