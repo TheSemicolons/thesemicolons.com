@@ -156,6 +156,9 @@ DWMT70786L              | DEWALT Drill, Pneumatic, Reversible, 3/8-Inch         
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
+B08C53WQ65              | Tool Daily Undercarriage Cleaner Water Broom, 16 Inch, 4000 PSI          | Amazon                   | $45.99    | 1  | $45.99
+B085ZC5PYJ              | AQUACREST Inline Water Filter                                            | Amazon                   | $25.43    | 1  | $25.43
+DWPW2400                | DEWALT Electric Pressure Washer, Cold Water, 2400-PSI, 1.1 GPM           | Amazon                   | $320.93   | 1  | $320.93
 DW088CG                 | DEWALT 165 ft. Green Self-Leveling Cross Line Laser Level                | Home Depot               | $219.00   | 1  | $219.00
 DCE530B                 | DEWALT 1100-BTU Heat Gun                                                 | Lowe's Home Improvement  | $139.00   | 1  | $139.00
 DCK520D1M1              | DEWALT 20V MAX Cordless Drill Combo Kit, 5-Tool                          | Lowe's Home Improvement  | $599.00   | 1  | $599.00
@@ -174,6 +177,7 @@ DWAX100IR               | DEWALT IMPACT READY Screwdriving Tough Case Set, Extra
 DWAX200                 | DEWALT Screwdriver Set, Security, 31-pc.                                 | Amazon                   | $17.98    | 1  | $17.98
 DWMT19248               | DEWALT Impact Socket Set, SAE/MM, 3/8-Inch Drive, 42-Piece               | Amazon                   | $116.65   | 2  | $233.30
 DWMT75301B              | DEWALT 3/8" Drive Socket Rail                                            | Amazon                   | $7.69     | 8  | $61.52
+FG6C0100                | Rubbermaid Commercial Products Dustpan and Brush Set                     | Amazon                   | $10.95    | 1  | $10.95
 118178-1964718          | QUICK-GRIP 12-in Medium-Duty One Handed Bar Clamp                        | Lowe's Home Improvement  | $24.98    | 4  | $99.92
 2545066-DT-926KIT       | Kobalt 10 Amp 50-1000-Volt Digital Specialty Meter                       | Lowe's Home Improvement  | $29.98    | 1  | $29.98
 337632-85631            | Kobalt 19-mm 12-point Metric Standard Combination Wrench                 | Lowe's Home Improvement  | $11.98    | 2  | $23.96
@@ -327,9 +331,9 @@ CM0120933               | MIL-PRF-23377K, Type I, Class C2, Component B, Curing 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 B07QXP3ZD1              | WINONLY Door Stopper, Magnetic Door Stop, Stainless Steel                | Amazon                   | $12.98    | 1  | $12.98
+DXV12P-QTA              | DEWALT 12 Gallon STEALTHSONIC Poly Wet/Dry Vacuum                        | Amazon                   | $167.08   | 1  | $167.08
 46319                   | Pittsburgh Automotive Pneumatic Roller Seat                              | Harbor Freight           | $39.99    | 1  | $39.99
 58315                   | Franklin 30-in x 18-in 1000 Pound Capacity Polypropylene Dolly           | Harbor Freight           | $34.99    | 2  | $69.98
-HD1200                  | RIDGID 12 Gal. 5.0-Peak HP NXT Wet/Dry Shop Vacuum                       | Home Depot               | $79.97    | 1  | $79.97
 2180118-10006           | Kobalt 42-in W x 58.8-in H 13 Ball-bearing Steel Tool Chest              | Lowe's Home Improvement  | $649.00   | 1  | $649.00
 2570375-KBSWT27         | Wire Cutter/Crimper                                                      | Lowe's Home Improvement  | $19.98    | 1  | $19.98
 2884760-81729           | 14-key Standard (Sae) and Metric Combination Hex Key Set                 | Lowe's Home Improvement  | $39.98    | 1  | $39.98
@@ -350,5 +354,6 @@ MSS000018417001-57820   | Mainstays Basic Indoor 8.78 Inch Black Analog Round Mo
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
+HME030065N              | hOmeLabs Beverage Refrigerator and Cooler - Mini Fridge with Glass Door  | Amazon                   | $299.99   | 1  | $299.99
 FRIDGE-DOODLE           | G FUEL Mini Fridge - Doodle                                              | G FUEL Energy            | $599.00   | 1  | $599.00
 21062e                  | Apple Barrel Acrylic Craft Paint, Matte Finish, Purple Iris, 8 fl oz     | Walmart                  | $2.67     | 1  | $2.67
