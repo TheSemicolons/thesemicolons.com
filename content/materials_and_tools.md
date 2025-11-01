@@ -4,12 +4,12 @@
 	"date": "2021-01-01",
 	"menu": "main",
 	"title": "Materials and Tools",
-	"weight": "4",
+	"weight": "102",
 	"cc": "25,100,127,139,144"
 }
 ---
 
-## Garage Finishing
+### Garage Finishing
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -27,14 +27,14 @@ Part Number | Item | Purchased From | Cost | Count | Total
 6509-21877              | Contractor Series Soft Woven Roller Cover 9x3/8 inch                     | Sherwin Williams         | $13.99    | 2  | $27.98
 6509-31173              | Emerald Interior Acrylic Latex Paint Extra White 1 gallon                | Sherwin Williams         | $66.79    | 6  | $400.74
 
-## Garage Lighting
+### Garage Lighting
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 SHI_F-40W-5K-1PK        | Sunco LED Shop Light, Industrial, Frosted, 4100 Lumens, 6000K, 2 pack    | Amazon                   | $49.99    | 4  | $199.96
 71519-11353             | E-Z Ancor 6-pack 1-1/4in L x 1/2-in dia #6 Drywall Anchor                | Lowe's Home Improvement  | $2.28     | 3  | $6.84
 
-## Garage Air Conditioning
+### Garage Air Conditioning
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -43,7 +43,7 @@ PI431                   | HG POWER 5 Inch Dryer Vent Hose, 16 Feet Long Flexible
 225507-3350             | 3M HVAC Tape 1.88in x 360ft                                              | Lowe's Home Improvement  | $15.98    | 1  | $15.98
 242134-UTK506725        | Utilitech 25ft 14/3 Medium Duty Extension Cord                           | Lowe's Home Improvement  | 22.98     | 1  | $22.98
 
-## Elgato Wave Panels
+### Elgato Wave Panels
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -51,7 +51,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 488025-414H-LONG-DC     | Scotch Extreme Double-Sided Mounting Tapes 1-in x 33.33-ft               | Lowe's Home Improvement  | $19.98    | 3  | $59.94
 E420C                   | Elmer's Craft Bond All Purpose Craft Glue, 4 Ounce                       | Walmart                  | $2.12     | 1  | $2.12
 
-## Air Compressor
+### Air Compressor
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -82,7 +82,7 @@ S-1816                  | Milton S-1816 1/2" MNPT G Style Coupler               
 130877399               | JobSmart Professional Inflation Pressure Gauge, 0-220 PSI, TG-11         | Tractor Supply Company   | $17.99    | 1  | $17.99
 550054449               | Shell T2 SAE 30 Motor Oil, 1 Gallon                                      | Tractor Supply Company   | $21.99    | 1  | $21.99
 
-## Signage
+### Signage
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -90,7 +90,7 @@ NFPA_PRINTED_331OX      | NFPA 704 Diamond Sign with 3-3-1-OX Hazard Ratings NFP
 NFPA-Chart_1            | NFPA 704 NFPA Rating Guide Sign NFPA-Chart-1 NFPA Diamonds               | Compliance Signs         | $11.60    | 1  | $11.60
 756989-RFD7020          | Scotch 1-in x 1-in 12 Pack Clear Fastener                                | Lowe's Home Improvement  | $4.98     | 4  | $19.92
 
-## Whiteboard
+### Whiteboard
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -98,7 +98,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 835300050               | Daler-Rowney Simply Portable Field Easel, Silver, Carry Bag Included     | Walmart                  | $23.52    | 1  | $23.52
 111167377               | Pen+Gear Small Metal Binder Clips, Black, 12 Count 5/16-in capacity      | Walmart                  | $1.32     | 1  | $1.32
 
-## Work Tables
+### Work Tables
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -109,7 +109,7 @@ Part Number | Item | Purchased From | Cost | Count | Total
 1148794-48464           | Deck Plus #10 x 2-1/2-in Wood To Wood Deck Screws (73) (1 pound)         | Lowe's Home Improvement  | $17.98    |  4 | $71.92
 1148791-48466           | Deck Plus #10 x 3-in Wood To Wood Deck Screws (62) (1 pound)             | Lowe's Home Improvement  | $17.98    |  2 | $35.96
 
-## Paint Booth
+### Paint Booth
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -123,7 +123,7 @@ UA02-4PK                | Filtrete 20x20x1, AC Furnace Air Filter, MPR 1900, 4Pa
 351125-PVC-04005-0200   | Charlotte Pipe 1/2-in x 2-ft White PVC Pipe                              | Lowe's Home Improvement  | $3.49     | 16 | $55.84
 492388-122410S          | Blue Hawk 10-ft 2-ft Galvanized Steel Cloth Fencing Mesh 1/4-in x 1/4-in | Lowe's Home Improvement  | $19.68    | 1  | $19.68
 
-## Stationary Tools
+### Stationary Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -136,7 +136,7 @@ BG4282                  | WEN BG4282 4.8-Amp 8-Inch Single Speed Bench Grinder  
 BV456                   | WEN BV456 6-Inch Heavy Duty Cast Iron Bench Vise with Swivel Base        | Amazon                   | $118.72   | 1  | $118.72
 DW713                   | 15 Amp Corded 10 in. Compound Single Bevel Miter Saw                     | Home Depot               | $219.00   | 1  | $219.00
 
-## Pneumatic Tools
+### Pneumatic Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -152,7 +152,7 @@ DWMT70784               | DEWALT Grinder Tool, Self-locking Touch Control, 3-Inc
 DWMT70785               | DEWALT Chisel Hammer, Pnuematic                                          | Amazon                   | $38.34    | 1  | $38.34
 DWMT70786L              | DEWALT Drill, Pneumatic, Reversible, 3/8-Inch                            | Amazon                   | $72.99    | 1  | $72.99
 
-## Power Tools
+### Power Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -164,7 +164,7 @@ DCE530B                 | DEWALT 1100-BTU Heat Gun                              
 DCK520D1M1              | DEWALT 20V MAX Cordless Drill Combo Kit, 5-Tool                          | Lowe's Home Improvement  | $599.00   | 1  | $599.00
 DWAMRASETFT             | DEWALT Modular FlexTorq Right Angle Drill Attachment                     | Lowe's Home Improvement  | $34.98    | 1  | $34.98
 
-## Hand Tools
+### Hand Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -195,7 +195,7 @@ FG6C0100                | Rubbermaid Commercial Products Dustpan and Brush Set  
 788455-423-400G-SBP     | 3M SandBlaster Pro Extra Fine 400-Grit Sheet Sandpaper                   | Lowe's Home Improvement  | $6.98     | 2  | $13.96
 961371-57373            | Kobalt 8-in Serrated Molded Grip Scissors                                | Lowe's Home Improvement  | $11.98    | 1  | $11.98
 
-## Measuring Tools
+### Measuring Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -205,7 +205,7 @@ T-RULE12                | INCRA Precision T-Rules - 12"                         
 T-RULE18                | INCRA Precision T-Rules - 18"                                            | Incremental Tools        | $46.95    | 1  | $46.95
 TINYT03                 | INCRA Precision Tiny T-Rules - 3"                                        | Incremental Tools        | $14.95    | 1  | $14.95
 
-## Cleaveland Tool Kit
+### Cleaveland Tool Kit
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -285,7 +285,7 @@ SSF2                    | Flat Squeezer Sets - #2 Flat Squeezer Set 1/8" x 3/8" 
 SSF8                    | Flat Squeezer Sets - #8 Flat Squeezer Set 1/2" x 3/8"                    | Cleaveland Aircraft Tool | $8.24     | 1  | $8.24
 EF60                    | Edge Forming Tool                                                        | Cleaveland Aircraft Tool | $59.00    | 1  | $59.00
 
-## Protection
+### Protection
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -298,7 +298,7 @@ DPG58-11C               | Dewalt DPG58-11C Reinforcer Clear Anti-Fog Protective 
 1001-27141              | Warner Knee Pads                                                         | Sherwin Williams         | $26.99    | 1  | $26.99
 6509-34987              | Trimaco DuPont Tyvek Protective Coverall with Hood and Boots (L/XL)      | Sherwin Williams         | $14.99    | 3  | $44.97
 
-## Cleaning
+### Cleaning
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -308,7 +308,7 @@ B091C2T16Q              | Yocada Push Broom Brush and Broom Set                 
 163-7818                | Intex The BIG Brick Bag of Rags                                          | Sherwin Williams         | $31.49    | 1  | $31.49
 174-9845                | Armaly ProPlus Heavy Duty Big Job Sponge                                 | Sherwin Williams         | $4.69     | 2  | $9.38
 
-## Chemicals
+### Chemicals
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -320,14 +320,14 @@ Part Number | Item | Purchased From | Cost | Count | Total
 160-0717                | Startex Xylene, 1 Quart                                                  | Sherwin Williams         | $15.99    | 1  | $15.99
 958-8393                | Startex Paint Thinner, 1 Gallon                                          | Sherwin Williams         | $18.29    | 1  | $18.29
 
-## Paint
+### Paint
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 CM0724933               | MIL-P-23377K/Type I-C2, Corrosion Resistant Epoxy Primer (Part A)        | Sherwin Williams         | $128.64   | 1  | $128.64
 CM0120933               | MIL-PRF-23377K, Type I, Class C2, Component B, Curing Agent              | Sherwin Williams         | $34.34    | 1  | $34.34
 
-## Miscellaneous Tools
+### Miscellaneous Tools
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
@@ -351,10 +351,8 @@ DXV12P-QTA              | DEWALT 12 Gallon STEALTHSONIC Poly Wet/Dry Vacuum     
 105-5508                | All-Purpose Mixing Container with Ratios, 1 Quart                        | Sherwin Williams         | $1.89     | 3  | $5.67
 MSS000018417001-57820   | Mainstays Basic Indoor 8.78 Inch Black Analog Round Modern Wall Clock    | Walmart                  | $4.52     | 1  | $4.52
 
-## Unnecessary
+### Unnecessary
 
 Part Number | Item | Purchased From | Cost | Count | Total
 ------------|------|----------------|------|-------|------
 HME030065N              | hOmeLabs Beverage Refrigerator and Cooler - Mini Fridge with Glass Door  | Amazon                   | $299.99   | 1  | $299.99
-FRIDGE-DOODLE           | G FUEL Mini Fridge - Doodle                                              | G FUEL Energy            | $599.00   | 1  | $599.00
-21062e                  | Apple Barrel Acrylic Craft Paint, Matte Finish, Purple Iris, 8 fl oz     | Walmart                  | $2.67     | 1  | $2.67

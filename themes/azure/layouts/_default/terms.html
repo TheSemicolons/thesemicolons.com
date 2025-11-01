@@ -1,0 +1,10 @@
+{{- define "main" -}}
+<main>
+	<article class="taxonomy">
+        	<ul>
+                	{{ $data := .Data }}
+                	{{ range $key, $value := .Data.Terms.Alphabetical }}<li><a href="{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> ({{ $value.Count }})</li>{{ end }}
+        	</ul>
+	</article>
+</main>
+{{ end }}

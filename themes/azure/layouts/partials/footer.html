@@ -1,0 +1,4 @@
+<footer>
+	<p>&copy; {{ now.Year }} {{ .Site.Params.Author }}. All rights reserved.</p>
+	{{- partial "menu.html" (dict "menuID" "footer" "page" .) -}}
+</footer>

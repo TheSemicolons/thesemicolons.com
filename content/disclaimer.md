@@ -1,18 +1,18 @@
 ---
 {
-	"author": "Jim Anderson",
-	"date": "2021-01-01",
-	"menu": "footer",
-	"title": "Disclaimer",
-	"weight": "3"
+        "author": "Jim Anderson",
+        "date": "2025-01-01",
+        "menu": "footer",
+        "title": "Disclaimer",
+        "weight": "200"
 }
 ---
 
 I am not a professional and the contents of this website are for entertainment
 purposes only.
 
-This website and all related content are in no way endorsed or sponsored by
-Van's Aircraft.
+This website and all related content are in no way endorsed or sponsored by:
+Corsair, DeWalt, Elgato, Garmin, Lowe's Home Improvement, or  Van's Aircraft.
 
 The content of this website is provided "as is" and the author(s) disclaim all
 warranties with regard to any procedures, methods, or advice given; including

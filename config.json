@@ -1,16 +1,19 @@
 {
-	"baseURL": "https://thesemicolons.com/",
-	"canonifyURLs": true,
-	"copyright": "2024 The Semicolons",
-	"languageCode": "en-us",
-	"theme": "solarized",
-	"title": "Van's Aircraft RV-7",
+	"BaseURL": "https://thesemicolons.com",
+	"CanonifyURLs": true,
+	"LanguageCode": "en-us",
+	"Theme": "azure",
+	"Title": "Van's Aircraft RV-7",
 
-	"params": {
-		"author": "The Semicolons",
-		"description": "The Semicolons Van's Aircraft RV-7 Build Log",
-		"keywords": "aircraft,airplane,build,construction,log,rv-7,rv7,semicolons,thesemicolons,garmin,turbaero,twitch,vansaircraft",
-		"subtitle": "Build Log"
+	"Params": {
+		"Author": "The Semicolons",
+		"Charset": "utf-8",
+		"Description": "The Semicolons Van's Aircraft RV-7 Build Log",
+		"Favicon": "/images/favicon.svg",
+		"Keywords": "aircraft,airplane,build,construction,dewalt,education,entertainment,log,rv-7,rv7,semicolons,thesemicolons,garmin,turbaero,vansaircraft,youtube",
+		"Locale": "en_US",
+		"LocaleAlternate": "",
+		"Subtitle": "Build Log"
 	},
 
 	"menu": {
@@ -18,22 +21,17 @@
 			{
 				"name": "Home",
 				"url": "/",
-				"weight": 1
+				"weight": 100
 			},
 			{
 				"name": "Categories",
 				"url": "/categories/",
-				"weight": 100
+				"weight": 198
 			},
 			{
 				"name": "Tags",
 				"url": "/tags/",
-				"weight": 101
-			},
-			{
-				"name": "LIVE",
-				"url": "https://thesemicolons.live",
-				"weight": 102
+				"weight": 199
 			}
 		]
 	},

@@ -1,14 +1,14 @@
 ---
 {
-	"author": "Jim Anderson",
-	"date": "2021-01-01",
-	"menu": "footer",
-	"title": "License Agreement",
-	"weight": "1"
+        "author": "Jim Anderson",
+        "date": "2025-01-01",
+        "menu": "footer",
+        "title": "License",
+        "weight": "201"
 }
 ---
 
-Copyright &copy; 2022 TheSemicolons [thesemicolons@protonmail.com](mailto:thesemicolons@protonmail.com).
+Copyright &copy; 2025 TheSemicolons [thesemicolons@protonmail.com](mailto:thesemicolons@protonmail.com).
 
 Permission to use, copy, modify, and distribute this website for any purpose
 with or without fee is hereby granted, provided that the above copyright notice

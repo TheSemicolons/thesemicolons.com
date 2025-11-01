@@ -1,0 +1,14 @@
+{{- define "main" -}}
+<main>
+	<article>
+		<h2>{{ .Title }}</h2>
+
+{{ .Content }}
+
+		<ul class="postDetails">
+			{{ range .Params.Tags }}<li class="tag"><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a></li>{{ end }}
+			<li class="date">{{ .Date.Format "01 January 2006" }}</li>
+		</ul>
+	</article>
+</main>
+{{ end -}}

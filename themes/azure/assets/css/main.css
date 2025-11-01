@@ -1,0 +1,560 @@
+html, body
+{
+	background-color: var(--cbg);
+	color: var(--cfg);
+	text-decoration-skip-ink: all;
+	text-rendering: optimizeLegibility;
+	text-wrap: pretty;
+	word-break: break-word;
+	writing-mode: horizontal-tb;
+}
+
+body
+{
+	align-content: stretch;
+	align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+}
+
+a:active, a:link, a:visited
+{
+	background-color: inherit;
+	color: var(--fg);
+	font-weight: bold;
+	text-decoration: underline;
+	text-decoration-style: dotted;
+}
+
+a:hover
+{
+	background-color: inherit;
+	color: var(--green0);
+	text-decoration: underline;
+}
+
+header
+{
+	align-self: stretch;
+	background-color: var(--bg);
+	color: var(--cfg);
+	flex: 0 1 auto;
+	order: 0;
+}
+
+header > h1
+{
+	display: inline;
+	font-size: 2.5em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: 0 5px;
+	white-space: nowrap;
+}
+
+header > h2
+{
+	display: inline;
+	margin: 0;
+	padding: 0 .5em;
+	white-space: nowrap;
+}
+
+nav
+{
+	align-self: stretch;
+	background-color: var(--bg);
+	border-bottom: 1px solid var(--cfg);
+	color: var(--cfg);
+	flex: 0 1 auto;
+	order: 1;
+}
+
+main
+{
+	align-self: stretch;
+	flex: 1 1 auto;
+	order: 2;
+	overflow-y: scroll;
+	padding: 0 5px;
+}
+
+footer
+{
+	align-self: stretch;
+	background-color: var(--bg);
+	border-top: 1px solid var(--cfg);
+	color: var(--cfg);
+	flex: 0 1 auto;
+	order: 3;
+}
+
+footer > p
+{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+footer > ul
+{
+	align-content: center;
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer > ul > li
+{
+	padding: 5px 0;
+}
+
+footer > ul > li > a:active, footer > ul > li > a:link, footer > ul > li > a:visited
+{
+	align-self: flex-start;
+	background-color: var(--bg);
+	color: var(--blue0);
+	flex: 0 1 auto;
+	order: 0;
+	padding: 5px 10px;
+	text-decoration: none;
+	text-decoration-style: none;
+	white-space: nowrap;
+}
+
+footer > ul > li > a:hover
+{
+	background-color: var(--blue0);
+	color: var(--cbg);
+	text-decoration: none;
+	text-decoration-style: none;
+}
+
+/**
+ * Taxonomy.
+ */
+.taxonomy
+{
+	background-color: var(--cbg);
+	border: none;
+	color: var(--cfg);
+}
+
+.taxonomy > ul
+{
+	align-content: center;
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.taxonomy > ul > li
+{
+	align-self: auto;
+	background-color: var(--bg);
+	border: 1px solid var(--cfg);
+	color: var(--fg);
+	flex: 0 1 20%;
+	line-height: 25px;
+	margin: 25px;
+	text-align: center;
+}
+
+
+/**
+ * Colours.
+ */
+.blue0
+{
+	background-color: inherit;
+	color: var(--blue0);
+}
+
+.blue1
+{
+	background-color: inherit;
+	color: var(--blue1);
+}
+
+.cyan0
+{
+	background-color: inherit;
+	color: var(--cyan0);
+}
+
+.cyan1
+{
+	background-color: inherit;
+	color: var(--cyan1);
+}
+
+.green0
+{
+	background-color: inherit;
+	color: var(--green0);
+}
+
+.green1
+{
+	background-color: inherit;
+	color: var(--green1);
+}
+
+.red0
+{
+	background-color: inherit;
+	color: var(--red0);
+}
+
+.red1
+{
+	background-color: inherit;
+	color: var(--red1);
+}
+
+.magenta0
+{
+	background-color: inherit;
+	color: var(--magenta0);
+}
+
+.magenta1
+{
+	background-color: inherit;
+	color: var(--magenta1);
+}
+
+.yellow0
+{
+	background-color: inherit;
+	color: var(--yellow0);
+}
+
+.yellow1
+{
+	background-color: inherit;
+	color: var(--yellow1);
+}
+
+
+/**
+ * Transitions.
+ */
+.bold
+{
+	font-weight: bold;
+}
+
+.italic
+{
+	font-style: italic;
+}
+
+.normal
+{
+	font-style: normal;
+}
+
+.small
+{
+	font-size: small;
+}
+
+.caption
+{
+	background-color: inherit;
+	color: var(--cfg);
+	font-size: small;
+}
+
+.subdued
+{
+	background-color: inherit;
+	color: var(--cfg);
+}
+
+.caution
+{
+	background-color: inherit;
+	color: var(--yellow0);
+}
+
+.error
+{
+	background-color: inherit;
+	color: var(--red0);
+}
+
+.success
+{
+	background-color: inherit;
+	color: var(--green0);
+}
+
+
+/**
+ * Feature Box.
+ */
+.featurebox > h2
+{
+	background-color: var(--bg);
+	border-bottom: 1px solid var(--red0);
+	color: var(--red0);
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+}
+
+
+/**
+ * Related Content.
+ */
+.related
+{
+	margin-top: -1em;
+}
+
+
+/**
+ * Pagination.
+ */
+.pagination > ul
+{
+	align-content: center;
+	align-items: center;
+	background-color: var(--bg);
+	border: 1px solid var(--cfg);
+	color: var(--fg);
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	list-style-type: none;
+	margin: 0 0 1.5em;
+	padding: 10px 10px;
+}
+
+.pagination > ul > li
+{
+	align-self: auto;
+	flex: 0 1 auto;
+}
+
+.pagination > ul > li > a
+{
+	border: 1px solid var(--cfg);
+	margin: 5px;
+	padding: 2px 5px;
+	text-decoration: none;
+}
+
+.pagination > ul > li > a:active, .pagination > ul > li > a:link,
+.pagination > ul > li > a:visited
+{
+	background-color: var(--cbg);
+	color: var(--fg);
+}
+
+.pagination > ul > li > a:hover
+{
+	background-color: var(--yellow0);
+	color: var(--cbg);
+}
+
+.pagination > ul > li > span
+{
+	background-color: var(--bg);
+	border: 1px solid var(--cfg);
+	color: var(--cfg);
+	font-weight: bold;
+	margin: 5px;
+	padding: 2px 5px;
+	text-decoration: none;
+}
+
+
+/**
+ * Article List.
+ */
+article
+{
+	background-color: var(--bg);
+	border: 1px solid var(--cfg);
+	color: var(--cfg);
+	margin: 1.0em 1.0em;
+	padding: 15px;
+}
+	
+article > h2
+{
+	background-color: inherit;
+	border-bottom: 1px solid var(--fg);
+	color: var(--fg);
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+}
+
+article > p
+{
+	padding-left: 1.0em;
+	max-width: 50em;
+}
+
+article > ul
+{
+	background-color: inherit;
+	color: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+article > ul > li
+{
+	background-color: var(--bg);
+	border: none;
+	color: var(--cfg);
+	font-weight: normal;
+	line-height: 1.3;
+	margin: 0 2em .3em;
+}
+
+.postDetails
+{
+	align-content: flex-start;
+	align-items: flex-start;
+	border-top: 1px solid var(--fg);
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	list-style-type: none;
+	margin: 0;
+	padding: 5px 0 0 0;
+}
+
+.postDetails > li
+{
+	margin: 0;
+}
+
+.postDetails > .tag, .postDetails > .date
+{
+	background-color: inherit;
+	color: var(--fg);
+	display: inline;
+	list-style-type: none;
+}
+
+.postDetails > .tag
+{
+	margin-right: 5px;
+}
+
+.postDetails > .tag+.tag
+{
+	border-left: 1px solid var(--cfg);
+	padding-left: 5px;
+}
+
+.postDetails > li:last-child
+{
+	margin-left: auto;
+}
+
+.postDetails > .tag > a
+{
+	background-color: inherit;
+	color: var(--fg);
+	text-decoration: underline;
+	text-decoration-style: dotted;
+	white-space: nowrap;
+	align-self: flex-start;
+	flex: 0 1 auto;
+	order: 0;
+}
+
+.postDetails > .tag > a:hover
+{
+	background-color: inherit;
+	color: var(--green0);
+	text-decoration: underline;
+}
+
+.tagList > ul
+{
+	align-content: flex-start;
+	align-items: flex-start;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.tagList > ul > li > a
+{
+	background-color: inherit;
+	color: var(--cfg);
+	padding: 0px 5px;
+	text-decoration: none;
+	white-space: nowrap;
+	align-self: flex-start;
+	flex: 0 1 auto;
+	order: 0;
+}
+
+.tagList > ul > li > a:hover
+{
+	background-color: inherit;
+	color: var(--yellow0);
+	text-decoration: underline;
+}
+
+
+/**
+ * Tables.
+ */
+table
+{
+	border-collapse: collapse;
+	margin: 0 0 1.5em;
+	width: 100%;
+}
+
+table > thead > tr > th
+{
+	background-color: var(--cbg);
+	border-bottom: 2px solid var(--fg);
+	border-left: 1px solid var(--fg);
+	border-right: 1px solid var(--fg);
+	border-top: 2px solid var(--fg);
+	color: var(--cfg);
+	font-size: 1em;
+	font-weight: bold;
+	padding: 6px;
+	text-align: center;
+	width: 16.5%;
+}
+
+table > tbody > tr > td
+{
+	background-color: var(--bg);
+	border: 1px solid var(--cfg);
+	color: inherit;
+	padding: 3px;
+}

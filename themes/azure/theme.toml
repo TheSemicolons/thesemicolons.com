@@ -1,0 +1,11 @@
+description = 'Azure Theme'
+homepage = 'https://thesemicolons.com'
+license = 'ISC'
+name = 'Azure'
+
+features = ['blog']
+tags = ['blog']
+
+[author]
+  homepage = 'https://thesemicolons.com'
+  name = 'Jim Anderson'
