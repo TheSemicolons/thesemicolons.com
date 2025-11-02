@@ -5,7 +5,7 @@ html, body
 	text-decoration-skip-ink: all;
 	text-rendering: optimizeLegibility;
 	text-wrap: pretty;
-	word-break: break-word;
+	word-break: auto-phrase;
 	writing-mode: horizontal-tb;
 }
 
@@ -125,7 +125,6 @@ footer > ul > li > a:active, footer > ul > li > a:link, footer > ul > li > a:vis
 	order: 0;
 	padding: 5px 10px;
 	text-decoration: none;
-	text-decoration-style: none;
 	white-space: nowrap;
 }
 
@@ -134,7 +133,6 @@ footer > ul > li > a:hover
 	background-color: var(--blue0);
 	color: var(--cbg);
 	text-decoration: none;
-	text-decoration-style: none;
 }
 
 /**

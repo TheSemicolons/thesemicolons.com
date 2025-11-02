@@ -25,7 +25,6 @@ nav > ul > li > a:active, nav > ul > li > a:link, nav > ul > li > a:visited
 	order: 0;
 	padding: 5px 10px;
 	text-decoration: none;
-	text-decoration-style: none;
 	white-space: nowrap;
 }
 
@@ -34,5 +33,4 @@ nav > ul > li > a:hover
 	background-color: var(--blue0);
 	color: var(--cbg);
 	text-decoration: none;
-	text-decoration-style: none;
 }

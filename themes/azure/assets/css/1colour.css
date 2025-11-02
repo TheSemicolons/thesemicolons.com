@@ -18,7 +18,29 @@
 	--base15: rgba(232, 242, 255, 1.0);
 }
 
+:root {
+	--blue0: var(--base04);
+	--cyan0: var(--base06);
+	--green0: var(--base02);
+	--magenta0: var(--base05);
+	--red0: var(--base01);
+	--yellow0: var(--base03);
+
+	--blue1: var(--base12);
+	--cyan1: var(--base14);
+	--green1: var(--base10);
+	--magenta1: var(--base13);
+	--red1: var(--base09);
+	--yellow1: var(--base11);
+
+	--bg: var(--base15);
+	--fg: var(--base08);
+
+	--cbg: var(--base07);
+	--cfg: var(--base00);
+}
 /* Dark */
+/*
 @media (prefers-color-scheme: dark) {
 	:root {
 		--blue0: var(--base12);
@@ -41,8 +63,10 @@
 		--cfg: var(--base15);
 	}
 }
+*/
 
 /* Light */
+/*
 @media (prefers-color-scheme: light) {
 	:root {
 		--blue0: var(--base04);
@@ -66,3 +90,4 @@
 		--cfg: var(--base00);
 	}
 }
+*/
