@@ -1,10 +1,10 @@
 ---
 {
-        "author": "Jim Anderson",
-        "date": "2025-01-01",
-        "menu": "footer",
-        "title": "Privacy Policy",
-        "weight": "202"
+	"author": "Jim Anderson",
+	"date": "2025-01-01",
+	"menu": "footer",
+	"title": "Privacy Policy",
+	"weight": "202"
 }
 ---
 

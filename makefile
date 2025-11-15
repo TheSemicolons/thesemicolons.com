@@ -22,7 +22,7 @@ VERSION   = 0.1
 all: install
 
 install: build
-	openrsync -av --delete --exclude traffic_graphs/*.png --exclude traffic_graphs/*.png.gz public/ web0.mimas.dev:/home/www/htdocs/thesemicolons.com
+	openrsync -av --delete --exclude trafficgraphs/*.png --exclude trafficgraphs/*.png.gz public/ web0.mimas.dev:/home/www/htdocs/thesemicolons.com
 
 build:
 	./generate_qrcode.sh

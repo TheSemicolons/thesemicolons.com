@@ -5,7 +5,7 @@
         "menu": "main",
         "title": "Socials",
         "type": "socials",
-        "weight": "106"
+        "weight": "105"
 }
 ---
 
